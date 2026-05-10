@@ -1,0 +1,5143 @@
+{
+  "summary": {
+    "tokens_analyzed": 10,
+    "holders_analyzed": 200,
+    "total_estimated_profit_usd": 7.19559065949226e+24,
+    "avg_profit_per_holder": 3.5977953297461303e+22,
+    "analysis_time": "2025-12-05 22:20:04"
+  },
+  "top_10_individual_holders": [
+    {
+      "rank": 1,
+      "address": "0x000000000000000000000000000000000000dead",
+      "display_name": "Null: 0x00...dEaD",
+      "token_amount": 3.520843705293591e+32,
+      "token_amount_raw": "352084370529359079098211960100995",
+      "share_percent": 46387171294507426000,
+      "estimated_profit_usd": 3.8839790655811435e+24,
+      "current_value_usd": 3.8991456257149106e+24,
+      "account_info": {
+        "address": "0x000000000000000000000000000000000000dead",
+        "displayName": {
+          "value": "Null: 0x00...dEaD"
+        }
+      },
+      "token_symbol": "Teddy V2",
+      "token_name": "Teddy Doge",
+      "token_growth": 25608.83305987
+    },
+    {
+      "rank": 2,
+      "address": "0x328130164d0f2b9d7a52edc73b3632e713ff0ec6",
+      "display_name": "0x3281...0ec6",
+      "token_amount": 4.374882424647135e+31,
+      "token_amount_raw": "43748824246471354450478047801736",
+      "share_percent": 5763914487891598000,
+      "estimated_profit_usd": 4.8261022567292434e+23,
+      "current_value_usd": 4.844947716205848e+23,
+      "account_info": {
+        "address": "0x328130164d0f2b9d7a52edc73b3632e713ff0ec6",
+        "displayName": {
+          "value": "0x3281...0ec6"
+        }
+      },
+      "token_symbol": "Teddy V2",
+      "token_name": "Teddy Doge",
+      "token_growth": 25608.83305987
+    },
+    {
+      "rank": 3,
+      "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+      "display_name": "MEXC 13",
+      "token_amount": 4.163515244359851e+31,
+      "token_amount_raw": "41635152443598513064400449496622",
+      "share_percent": 5485437894815858000,
+      "estimated_profit_usd": 4.592934933183346e+23,
+      "current_value_usd": 4.6108698969610614e+23,
+      "account_info": {
+        "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+        "displayName": {
+          "value": "MEXC 13"
+        }
+      },
+      "token_symbol": "Teddy V2",
+      "token_name": "Teddy Doge",
+      "token_growth": 25608.83305987
+    },
+    {
+      "rank": 4,
+      "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071",
+      "display_name": "Gate.io 5",
+      "token_amount": 3.3862028413896023e+31,
+      "token_amount_raw": "33862028413896023899100840446208",
+      "share_percent": 4461327579106191000,
+      "estimated_profit_usd": 3.73545151350929e+23,
+      "current_value_usd": 3.750038088011831e+23,
+      "account_info": {
+        "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071",
+        "displayName": {
+          "value": "Gate.io 5"
+        }
+      },
+      "token_symbol": "Teddy V2",
+      "token_name": "Teddy Doge",
+      "token_growth": 25608.83305987
+    },
+    {
+      "rank": 5,
+      "address": "0xd10f64e5cdd94b98092da4ffbff8a67c96ed697a",
+      "display_name": "0xd10f...697a",
+      "token_amount": 2.0442121406445755e+31,
+      "token_amount_raw": "20442121406445756931903115317198",
+      "share_percent": 2693252716325404000,
+      "estimated_profit_usd": 2.2550495916456155e+23,
+      "current_value_usd": 2.2638553407649668e+23,
+      "account_info": {
+        "address": "0xd10f64e5cdd94b98092da4ffbff8a67c96ed697a",
+        "displayName": {
+          "value": "0xd10f...697a"
+        }
+      },
+      "token_symbol": "Teddy V2",
+      "token_name": "Teddy Doge",
+      "token_growth": 25608.83305987
+    },
+    {
+      "rank": 6,
+      "address": "0x2359b522ec4b328d12662e7321f5af44b4ae9b4b",
+      "display_name": "0x2359...9b4b",
+      "token_amount": 1.720603298295837e+31,
+      "token_amount_raw": "17206032982958369157880995927838",
+      "share_percent": 2266897556626645200,
+      "estimated_profit_usd": 1.8980641431777628e+23,
+      "current_value_usd": 1.90547589887448e+23,
+      "account_info": {
+        "address": "0x2359b522ec4b328d12662e7321f5af44b4ae9b4b",
+        "displayName": {
+          "value": "0x2359...9b4b"
+        }
+      },
+      "token_symbol": "Teddy V2",
+      "token_name": "Teddy Doge",
+      "token_growth": 25608.83305987
+    },
+    {
+      "rank": 1,
+      "address": "0xd629edc5f1ff4cb7d9dd0a5be72c1d9fc5d02709",
+      "display_name": "0xd629...2709",
+      "token_amount": 2.9679701590469144e+25,
+      "token_amount_raw": "29679701590469143188870898",
+      "share_percent": 32.20373203039749,
+      "estimated_profit_usd": 1.757517378233456e+23,
+      "current_value_usd": 1.8163674519686944e+23,
+      "account_info": {
+        "address": "0xd629edc5f1ff4cb7d9dd0a5be72c1d9fc5d02709",
+        "displayName": {
+          "value": "0xd629...2709"
+        }
+      },
+      "token_symbol": "DEUSD",
+      "token_name": "Elixir deUSD",
+      "token_growth": 2986.43190515
+    },
+    {
+      "rank": 2,
+      "address": "0x5c5b196abe0d54485975d1ec29617d42d9198326",
+      "display_name": "Elixir Protocol: sdeUSD Token",
+      "token_amount": 2.2783963686946624e+25,
+      "token_amount_raw": "22783963686946621830463077",
+      "share_percent": 24.72156463326282,
+      "estimated_profit_usd": 1.3491783939535135e+23,
+      "current_value_usd": 1.39435532873066e+23,
+      "account_info": {
+        "address": "0x5c5b196abe0d54485975d1ec29617d42d9198326",
+        "displayName": {
+          "value": "Elixir Protocol: sdeUSD Token"
+        }
+      },
+      "token_symbol": "DEUSD",
+      "token_name": "Elixir deUSD",
+      "token_growth": 2986.43190515
+    },
+    {
+      "rank": 7,
+      "address": "0x4c3a49be6bca3a36848772e2ae375ce99d8ffbe6",
+      "display_name": "0x4c3a...fbe6",
+      "token_amount": 1.109700079e+31,
+      "token_amount_raw": "11097000790000000000000000000000",
+      "share_percent": 1462031602615800800,
+      "estimated_profit_usd": 1.2241531396095702e+23,
+      "current_value_usd": 1.2289333384446662e+23,
+      "account_info": {
+        "address": "0x4c3a49be6bca3a36848772e2ae375ce99d8ffbe6",
+        "displayName": {
+          "value": "0x4c3a...fbe6"
+        }
+      },
+      "token_symbol": "Teddy V2",
+      "token_name": "Teddy Doge",
+      "token_growth": 25608.83305987
+    },
+    {
+      "rank": 8,
+      "address": "0xc25dc289edce5227cf15d42539824509e826b54d",
+      "display_name": "0xc25d...b54d",
+      "token_amount": 9.990372024911933e+30,
+      "token_amount_raw": "9990372024911933651778220050768",
+      "share_percent": 1316233088446059000,
+      "estimated_profit_usd": 1.1020766341824837e+23,
+      "current_value_usd": 1.1063801361484106e+23,
+      "account_info": {
+        "address": "0xc25dc289edce5227cf15d42539824509e826b54d",
+        "displayName": {
+          "value": "0xc25d...b54d"
+        }
+      },
+      "token_symbol": "Teddy V2",
+      "token_name": "Teddy Doge",
+      "token_growth": 25608.83305987
+    }
+  ],
+  "token_details": {
+    "AI": {
+      "token_info": {
+        "rank": 1,
+        "name": "AI PIN",
+        "symbol": "AI",
+        "price_usd": 0.0009905416689783319,
+        "volume_24h": 93.81438377,
+        "percent_change_24h": 28393.49672207,
+        "contract_address": "0xbc544207ff1c5b2bc47a35f745010b603b97e99e",
+        "platform": "Ethereum",
+        "coin_id": 28902,
+        "market_cap": 0
+      },
+      "holders_analysis": [
+        {
+          "rank": 1,
+          "address": "0x5d9f6255f85f28e97c5e4acebddb665877bbd168",
+          "display_name": "0x5d9f...d168",
+          "token_amount": 4.370255539592925e+25,
+          "token_amount_raw": "43702555395929248746034115",
+          "share_percent": 43.702555395929245,
+          "estimated_profit_usd": 4.313727555569523e+22,
+          "current_value_usd": 4.328920216050176e+22,
+          "account_info": {
+            "address": "0x5d9f6255f85f28e97c5e4acebddb665877bbd168",
+            "displayName": {
+              "value": "0x5d9f...d168"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 2,
+          "address": "0x3ee18b2214aff97000d974cf647e7c347e8fa585",
+          "display_name": "Wormhole: Portal Token Bridge",
+          "token_amount": 1.86467486208602e+25,
+          "token_amount_raw": "18646748620860200000000000",
+          "share_percent": 18.6467486208602,
+          "estimated_profit_usd": 1.8405558352103843e+22,
+          "current_value_usd": 1.847038149992627e+22,
+          "account_info": {
+            "address": "0x3ee18b2214aff97000d974cf647e7c347e8fa585",
+            "displayName": {
+              "value": "Wormhole: Portal Token Bridge"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 3,
+          "address": "0x57d037e80b5d082e3ff68d7eb2d24a591e020e9c",
+          "display_name": "0x57d0...0e9c",
+          "token_amount": 1.9607499343536864e+24,
+          "token_amount_raw": "1960749934353686532515134",
+          "share_percent": 1.9607499343536865,
+          "estimated_profit_usd": 1.9353882043681315e+21,
+          "current_value_usd": 1.9422045124238553e+21,
+          "account_info": {
+            "address": "0x57d037e80b5d082e3ff68d7eb2d24a591e020e9c",
+            "displayName": {
+              "value": "0x57d0...0e9c"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 4,
+          "address": "0xe52262fb2ef2c0f9acaa6205c30cb2c9b97c83d4",
+          "display_name": "0xe522...83d4",
+          "token_amount": 1.531625576030742e+24,
+          "token_amount_raw": "1531625576030742016146307",
+          "share_percent": 1.531625576030742,
+          "estimated_profit_usd": 1.5118144447805627e+21,
+          "current_value_usd": 1.5171389543313902e+21,
+          "account_info": {
+            "address": "0xe52262fb2ef2c0f9acaa6205c30cb2c9b97c83d4",
+            "displayName": {
+              "value": "0xe522...83d4"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 5,
+          "address": "0xd4ec4b3257fc80cd3d11ec8601f7bcb3f685a6ad",
+          "display_name": "0xd4ec...a6ad",
+          "token_amount": 1.437685732947623e+24,
+          "token_amount_raw": "1437685732947623047095716",
+          "share_percent": 1.4376857329476231,
+          "estimated_profit_usd": 1.419089686239035e+21,
+          "current_value_usd": 1.424087625380275e+21,
+          "account_info": {
+            "address": "0xd4ec4b3257fc80cd3d11ec8601f7bcb3f685a6ad",
+            "displayName": {
+              "value": "0xd4ec...a6ad"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 6,
+          "address": "0x55a4cfee78aae58745bf05dc58718883e839913d",
+          "display_name": "0x55a4...913d",
+          "token_amount": 1.2006998054933441e+24,
+          "token_amount_raw": "1200699805493344065828129",
+          "share_percent": 1.200699805493344,
+          "estimated_profit_usd": 1.1851691028131637e+21,
+          "current_value_usd": 1.1893431892753355e+21,
+          "account_info": {
+            "address": "0x55a4cfee78aae58745bf05dc58718883e839913d",
+            "displayName": {
+              "value": "0x55a4...913d"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 7,
+          "address": "0xea469efdfa021d13b1ad3ccb03a7e629ee0f1def",
+          "display_name": "0xea46...1def",
+          "token_amount": 1.1783507321448001e+24,
+          "token_amount_raw": "1178350732144800143637610",
+          "share_percent": 1.1783507321448001,
+          "estimated_profit_usd": 1.1631091082266597e+21,
+          "current_value_usd": 1.1672055008605497e+21,
+          "account_info": {
+            "address": "0xea469efdfa021d13b1ad3ccb03a7e629ee0f1def",
+            "displayName": {
+              "value": "0xea46...1def"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 8,
+          "address": "0xe531280cb4e4e103976ad658db970bf9d9ec590e",
+          "display_name": "0xe531...590e",
+          "token_amount": 1.1486718293748938e+24,
+          "token_amount_raw": "1148671829374893855387562",
+          "share_percent": 1.1486718293748939,
+          "estimated_profit_usd": 1.1338140934299875e+21,
+          "current_value_usd": 1.137807310977401e+21,
+          "account_info": {
+            "address": "0xe531280cb4e4e103976ad658db970bf9d9ec590e",
+            "displayName": {
+              "value": "0xe531...590e"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 9,
+          "address": "0x9769ec8a90dd2dcebe06648f230b92f8e57649a3",
+          "display_name": "0x9769...49a3",
+          "token_amount": 1.018304e+24,
+          "token_amount_raw": "1018304000000000000000000",
+          "share_percent": 1.018304,
+          "estimated_profit_usd": 1.0051325340018521e+21,
+          "current_value_usd": 1.0086725436873112e+21,
+          "account_info": {
+            "address": "0x9769ec8a90dd2dcebe06648f230b92f8e57649a3",
+            "displayName": {
+              "value": "0x9769...49a3"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 10,
+          "address": "0x3864e2c9eecdf2c6a2b3b1e08e0ca7b63879dce9",
+          "display_name": "0x3864...dce9",
+          "token_amount": 1.0091644246296355e+24,
+          "token_amount_raw": "1009164424629635527596444",
+          "share_percent": 1.0091644246296356,
+          "estimated_profit_usd": 9.961111763800461e+20,
+          "current_value_usd": 9.996194134461971e+20,
+          "account_info": {
+            "address": "0x3864e2c9eecdf2c6a2b3b1e08e0ca7b63879dce9",
+            "displayName": {
+              "value": "0x3864...dce9"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 11,
+          "address": "0xbedbd2b766abcc5e10680aefcad7a73ea62e2e22",
+          "display_name": "0xbedb...2e22",
+          "token_amount": 1.0000846103269919e+24,
+          "token_amount_raw": "1000084610326991859200000",
+          "share_percent": 1.0000846103269918,
+          "estimated_profit_usd": 9.871488068339357e+20,
+          "current_value_usd": 9.906254790328431e+20,
+          "account_info": {
+            "address": "0xbedbd2b766abcc5e10680aefcad7a73ea62e2e22",
+            "displayName": {
+              "value": "0xbedb...2e22"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 12,
+          "address": "0x506db4fdf1bd16515a50e7ecbe1221c8f092dfb9",
+          "display_name": "0x506d...dfb9",
+          "token_amount": 9.725125137590811e+23,
+          "token_amount_raw": "972512513759081040600592",
+          "share_percent": 0.972512513759081,
+          "estimated_profit_usd": 9.599333473139417e+20,
+          "current_value_usd": 9.633141684812331e+20,
+          "account_info": {
+            "address": "0x506db4fdf1bd16515a50e7ecbe1221c8f092dfb9",
+            "displayName": {
+              "value": "0x506d...dfb9"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 13,
+          "address": "0x2e1bbf5ffb67a86e2cc019fc1a020bf71c9ecb38",
+          "display_name": "0x2e1b...cb38",
+          "token_amount": 9.117051775314815e+23,
+          "token_amount_raw": "911705177531481418456396",
+          "share_percent": 0.9117051775314814,
+          "estimated_profit_usd": 8.999125362905639e+20,
+          "current_value_usd": 9.0308196816822e+20,
+          "account_info": {
+            "address": "0x2e1bbf5ffb67a86e2cc019fc1a020bf71c9ecb38",
+            "displayName": {
+              "value": "0x2e1b...cb38"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 14,
+          "address": "0x5245f17a73b2d1eeb4d27f9fc6cb29d5e9f17298",
+          "display_name": "0x5245...7298",
+          "token_amount": 8.80999e+23,
+          "token_amount_raw": "880999000000000000000000",
+          "share_percent": 0.880999,
+          "estimated_profit_usd": 8.69603534232506e+20,
+          "current_value_usd": 8.726662198282415e+20,
+          "account_info": {
+            "address": "0x5245f17a73b2d1eeb4d27f9fc6cb29d5e9f17298",
+            "displayName": {
+              "value": "0x5245...7298"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 15,
+          "address": "0x9a132e4a47040566bbcc7ccc5044bb1330caf249",
+          "display_name": "0x9a13...f249",
+          "token_amount": 8.25e+23,
+          "token_amount_raw": "825000000000000000000000",
+          "share_percent": 0.825,
+          "estimated_profit_usd": 8.143288650064499e+20,
+          "current_value_usd": 8.171968769071238e+20,
+          "account_info": {
+            "address": "0x9a132e4a47040566bbcc7ccc5044bb1330caf249",
+            "displayName": {
+              "value": "0x9a13...f249"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 16,
+          "address": "0x69ae6a29dbb56f541512534785482c5231ee9beb",
+          "display_name": "ahmxd.eth",
+          "token_amount": 7.12942e+23,
+          "token_amount_raw": "712942000000000000000000",
+          "share_percent": 0.712942,
+          "estimated_profit_usd": 7.037203026368829e+20,
+          "current_value_usd": 7.061987585647499e+20,
+          "account_info": {
+            "address": "0x69ae6a29dbb56f541512534785482c5231ee9beb",
+            "displayName": {
+              "value": "ahmxd.eth"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 17,
+          "address": "0xdf0ada8ec0a50df44af50e22e9e143bc98a753f5",
+          "display_name": "0xdf0a...53f5",
+          "token_amount": 7.000000010898586e+23,
+          "token_amount_raw": "700000001089858555614067",
+          "share_percent": 0.7000000010898586,
+          "estimated_profit_usd": 6.909457047175978e+20,
+          "current_value_usd": 6.933791693643827e+20,
+          "account_info": {
+            "address": "0xdf0ada8ec0a50df44af50e22e9e143bc98a753f5",
+            "displayName": {
+              "value": "0xdf0a...53f5"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 18,
+          "address": "0xc8596a2a7edb04a09baae5f2314b7e22daed6bcc",
+          "display_name": "0xc859...6bcc",
+          "token_amount": 6.942e+23,
+          "token_amount_raw": "694200000000000000000000",
+          "share_percent": 0.6942,
+          "estimated_profit_usd": 6.852207249545181e+20,
+          "current_value_usd": 6.876340266047579e+20,
+          "account_info": {
+            "address": "0xc8596a2a7edb04a09baae5f2314b7e22daed6bcc",
+            "displayName": {
+              "value": "0xc859...6bcc"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 19,
+          "address": "0x2865fb7289522098d4f977325ff139c4b046c592",
+          "display_name": "0x2865...c592",
+          "token_amount": 6.58824e+23,
+          "token_amount_raw": "658824000000000000000000",
+          "share_percent": 0.658824,
+          "estimated_profit_usd": 6.503023032230416e+20,
+          "current_value_usd": 6.525926245229805e+20,
+          "account_info": {
+            "address": "0x2865fb7289522098d4f977325ff139c4b046c592",
+            "displayName": {
+              "value": "0x2865...c592"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 20,
+          "address": "0x191d2a58eda1e50615a0fd161d532b48406d9c7e",
+          "display_name": "0x191d...9c7e",
+          "token_amount": 6.39811693063749e+23,
+          "token_amount_raw": "639811693063749032282580",
+          "share_percent": 0.6398116930637491,
+          "estimated_profit_usd": 6.315359149460094e+20,
+          "current_value_usd": 6.337601422792182e+20,
+          "account_info": {
+            "address": "0x191d2a58eda1e50615a0fd161d532b48406d9c7e",
+            "displayName": {
+              "value": "0x191d...9c7e"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        }
+      ],
+      "top_earners": [
+        {
+          "rank": 1,
+          "address": "0x5d9f6255f85f28e97c5e4acebddb665877bbd168",
+          "display_name": "0x5d9f...d168",
+          "token_amount": 4.370255539592925e+25,
+          "token_amount_raw": "43702555395929248746034115",
+          "share_percent": 43.702555395929245,
+          "estimated_profit_usd": 4.313727555569523e+22,
+          "current_value_usd": 4.328920216050176e+22,
+          "account_info": {
+            "address": "0x5d9f6255f85f28e97c5e4acebddb665877bbd168",
+            "displayName": {
+              "value": "0x5d9f...d168"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 2,
+          "address": "0x3ee18b2214aff97000d974cf647e7c347e8fa585",
+          "display_name": "Wormhole: Portal Token Bridge",
+          "token_amount": 1.86467486208602e+25,
+          "token_amount_raw": "18646748620860200000000000",
+          "share_percent": 18.6467486208602,
+          "estimated_profit_usd": 1.8405558352103843e+22,
+          "current_value_usd": 1.847038149992627e+22,
+          "account_info": {
+            "address": "0x3ee18b2214aff97000d974cf647e7c347e8fa585",
+            "displayName": {
+              "value": "Wormhole: Portal Token Bridge"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 3,
+          "address": "0x57d037e80b5d082e3ff68d7eb2d24a591e020e9c",
+          "display_name": "0x57d0...0e9c",
+          "token_amount": 1.9607499343536864e+24,
+          "token_amount_raw": "1960749934353686532515134",
+          "share_percent": 1.9607499343536865,
+          "estimated_profit_usd": 1.9353882043681315e+21,
+          "current_value_usd": 1.9422045124238553e+21,
+          "account_info": {
+            "address": "0x57d037e80b5d082e3ff68d7eb2d24a591e020e9c",
+            "displayName": {
+              "value": "0x57d0...0e9c"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 4,
+          "address": "0xe52262fb2ef2c0f9acaa6205c30cb2c9b97c83d4",
+          "display_name": "0xe522...83d4",
+          "token_amount": 1.531625576030742e+24,
+          "token_amount_raw": "1531625576030742016146307",
+          "share_percent": 1.531625576030742,
+          "estimated_profit_usd": 1.5118144447805627e+21,
+          "current_value_usd": 1.5171389543313902e+21,
+          "account_info": {
+            "address": "0xe52262fb2ef2c0f9acaa6205c30cb2c9b97c83d4",
+            "displayName": {
+              "value": "0xe522...83d4"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        },
+        {
+          "rank": 5,
+          "address": "0xd4ec4b3257fc80cd3d11ec8601f7bcb3f685a6ad",
+          "display_name": "0xd4ec...a6ad",
+          "token_amount": 1.437685732947623e+24,
+          "token_amount_raw": "1437685732947623047095716",
+          "share_percent": 1.4376857329476231,
+          "estimated_profit_usd": 1.419089686239035e+21,
+          "current_value_usd": 1.424087625380275e+21,
+          "account_info": {
+            "address": "0xd4ec4b3257fc80cd3d11ec8601f7bcb3f685a6ad",
+            "displayName": {
+              "value": "0xd4ec...a6ad"
+            }
+          },
+          "token_symbol": "AI",
+          "token_name": "AI PIN",
+          "token_growth": 28393.49672207
+        }
+      ],
+      "total_holders_analyzed": 20
+    },
+    "Teddy V2": {
+      "token_info": {
+        "rank": 2,
+        "name": "Teddy Doge",
+        "symbol": "Teddy V2",
+        "price_usd": 1.1074463827668756e-08,
+        "volume_24h": 2614.96372991,
+        "percent_change_24h": 25608.83305987,
+        "contract_address": "0xDB79c12d1d0670988A39B0E48b96e955eF922d24",
+        "platform": "BNB",
+        "coin_id": 17859,
+        "market_cap": 0
+      },
+      "holders_analysis": [
+        {
+          "rank": 1,
+          "address": "0x000000000000000000000000000000000000dead",
+          "display_name": "Null: 0x00...dEaD",
+          "token_amount": 3.520843705293591e+32,
+          "token_amount_raw": "352084370529359079098211960100995",
+          "share_percent": 46387171294507426000,
+          "estimated_profit_usd": 3.8839790655811435e+24,
+          "current_value_usd": 3.8991456257149106e+24,
+          "account_info": {
+            "address": "0x000000000000000000000000000000000000dead",
+            "displayName": {
+              "value": "Null: 0x00...dEaD"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 2,
+          "address": "0x328130164d0f2b9d7a52edc73b3632e713ff0ec6",
+          "display_name": "0x3281...0ec6",
+          "token_amount": 4.374882424647135e+31,
+          "token_amount_raw": "43748824246471354450478047801736",
+          "share_percent": 5763914487891598000,
+          "estimated_profit_usd": 4.8261022567292434e+23,
+          "current_value_usd": 4.844947716205848e+23,
+          "account_info": {
+            "address": "0x328130164d0f2b9d7a52edc73b3632e713ff0ec6",
+            "displayName": {
+              "value": "0x3281...0ec6"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 3,
+          "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+          "display_name": "MEXC 13",
+          "token_amount": 4.163515244359851e+31,
+          "token_amount_raw": "41635152443598513064400449496622",
+          "share_percent": 5485437894815858000,
+          "estimated_profit_usd": 4.592934933183346e+23,
+          "current_value_usd": 4.6108698969610614e+23,
+          "account_info": {
+            "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+            "displayName": {
+              "value": "MEXC 13"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 4,
+          "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071",
+          "display_name": "Gate.io 5",
+          "token_amount": 3.3862028413896023e+31,
+          "token_amount_raw": "33862028413896023899100840446208",
+          "share_percent": 4461327579106191000,
+          "estimated_profit_usd": 3.73545151350929e+23,
+          "current_value_usd": 3.750038088011831e+23,
+          "account_info": {
+            "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071",
+            "displayName": {
+              "value": "Gate.io 5"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 5,
+          "address": "0xd10f64e5cdd94b98092da4ffbff8a67c96ed697a",
+          "display_name": "0xd10f...697a",
+          "token_amount": 2.0442121406445755e+31,
+          "token_amount_raw": "20442121406445756931903115317198",
+          "share_percent": 2693252716325404000,
+          "estimated_profit_usd": 2.2550495916456155e+23,
+          "current_value_usd": 2.2638553407649668e+23,
+          "account_info": {
+            "address": "0xd10f64e5cdd94b98092da4ffbff8a67c96ed697a",
+            "displayName": {
+              "value": "0xd10f...697a"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 6,
+          "address": "0x2359b522ec4b328d12662e7321f5af44b4ae9b4b",
+          "display_name": "0x2359...9b4b",
+          "token_amount": 1.720603298295837e+31,
+          "token_amount_raw": "17206032982958369157880995927838",
+          "share_percent": 2266897556626645200,
+          "estimated_profit_usd": 1.8980641431777628e+23,
+          "current_value_usd": 1.90547589887448e+23,
+          "account_info": {
+            "address": "0x2359b522ec4b328d12662e7321f5af44b4ae9b4b",
+            "displayName": {
+              "value": "0x2359...9b4b"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 7,
+          "address": "0x4c3a49be6bca3a36848772e2ae375ce99d8ffbe6",
+          "display_name": "0x4c3a...fbe6",
+          "token_amount": 1.109700079e+31,
+          "token_amount_raw": "11097000790000000000000000000000",
+          "share_percent": 1462031602615800800,
+          "estimated_profit_usd": 1.2241531396095702e+23,
+          "current_value_usd": 1.2289333384446662e+23,
+          "account_info": {
+            "address": "0x4c3a49be6bca3a36848772e2ae375ce99d8ffbe6",
+            "displayName": {
+              "value": "0x4c3a...fbe6"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 8,
+          "address": "0xc25dc289edce5227cf15d42539824509e826b54d",
+          "display_name": "0xc25d...b54d",
+          "token_amount": 9.990372024911933e+30,
+          "token_amount_raw": "9990372024911933651778220050768",
+          "share_percent": 1316233088446059000,
+          "estimated_profit_usd": 1.1020766341824837e+23,
+          "current_value_usd": 1.1063801361484106e+23,
+          "account_info": {
+            "address": "0xc25dc289edce5227cf15d42539824509e826b54d",
+            "displayName": {
+              "value": "0xc25d...b54d"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 9,
+          "address": "0x650403fa6cb85315b72d484388d631f5e790b880",
+          "display_name": "0x6504...b880",
+          "token_amount": 8.4e+30,
+          "token_amount_raw": "8400000000000000000000000000001",
+          "share_percent": 1106701323572017700,
+          "estimated_profit_usd": 9.266365360617758e+22,
+          "current_value_usd": 9.302549615241754e+22,
+          "account_info": {
+            "address": "0x650403fa6cb85315b72d484388d631f5e790b880",
+            "displayName": {
+              "value": "0x6504...b880"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 10,
+          "address": "0x1ae528e72a8ac2b9a3740d9dc077c49ebbba7805",
+          "display_name": "0x1ae5...7805",
+          "token_amount": 6.29270360915515e+30,
+          "token_amount_raw": "6292703609155150781132589066645",
+          "share_percent": 829064692035526000,
+          "estimated_profit_usd": 6.94172508910829e+22,
+          "current_value_usd": 6.968831849782934e+22,
+          "account_info": {
+            "address": "0x1ae528e72a8ac2b9a3740d9dc077c49ebbba7805",
+            "displayName": {
+              "value": "0x1ae5...7805"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 11,
+          "address": "0x0889184fc99f7a546fac7a2ba176d234afca0dc0",
+          "display_name": "0x0889...0dc0",
+          "token_amount": 4e+30,
+          "token_amount_raw": "4000000000000000000113275837569",
+          "share_percent": 527000630272389400,
+          "estimated_profit_usd": 4.4125549336275035e+22,
+          "current_value_usd": 4.4297855310675025e+22,
+          "account_info": {
+            "address": "0x0889184fc99f7a546fac7a2ba176d234afca0dc0",
+            "displayName": {
+              "value": "0x0889...0dc0"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 12,
+          "address": "0xf2f7ad044dfbaa417249c8568788d7aa1e6f155b",
+          "display_name": "zunsan.eth",
+          "token_amount": 3.739456534288e+30,
+          "token_amount_raw": "3739456534288000000000000000000",
+          "share_percent": 492673987611495230,
+          "estimated_profit_usd": 4.125139344864531e+22,
+          "current_value_usd": 4.141247612411203e+22,
+          "account_info": {
+            "address": "0xf2f7ad044dfbaa417249c8568788d7aa1e6f155b",
+            "displayName": {
+              "value": "zunsan.eth"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 13,
+          "address": "0xf949437b775e5f2b8fbd391b93c228842e044ba9",
+          "display_name": "0xf949...4ba9",
+          "token_amount": 3.6724538991741527e+30,
+          "token_amount_raw": "3672453899174152919647600000000",
+          "share_percent": 483846379877768100,
+          "estimated_profit_usd": 4.051226142830118e+22,
+          "current_value_usd": 4.067045786518523e+22,
+          "account_info": {
+            "address": "0xf949437b775e5f2b8fbd391b93c228842e044ba9",
+            "displayName": {
+              "value": "0xf949...4ba9"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 14,
+          "address": "0x59d30b849117ac973673a7cc9fa441e96b54f2fe",
+          "display_name": "0x59d3...f2fe",
+          "token_amount": 3.5413519604218605e+30,
+          "token_amount_raw": "3541351960421860696952360270775",
+          "share_percent": 466573678789670600,
+          "estimated_profit_usd": 3.906602516167728e+22,
+          "current_value_usd": 3.921857418673573e+22,
+          "account_info": {
+            "address": "0x59d30b849117ac973673a7cc9fa441e96b54f2fe",
+            "displayName": {
+              "value": "0x59d3...f2fe"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 15,
+          "address": "0x4c55b6c753c02e59bfc3cc7bf4dab1986bd0890e",
+          "display_name": "0x4c55...890e",
+          "token_amount": 3.42502755193949e+30,
+          "token_amount_raw": "3425027551939490130124460544625",
+          "share_percent": 451247919643102500,
+          "estimated_profit_usd": 3.778280555530182e+22,
+          "current_value_usd": 3.793034373272276e+22,
+          "account_info": {
+            "address": "0x4c55b6c753c02e59bfc3cc7bf4dab1986bd0890e",
+            "displayName": {
+              "value": "0x4c55...890e"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 16,
+          "address": "0x821fdf101af72f457735437e5759cffe20faebe2",
+          "display_name": "0x821f...ebe2",
+          "token_amount": 3.2365091725685076e+30,
+          "token_amount_raw": "3236509172568507572464510104914",
+          "share_percent": 426410593456493250,
+          "estimated_profit_usd": 3.5703186292869597e+22,
+          "current_value_usd": 3.584260375952807e+22,
+          "account_info": {
+            "address": "0x821fdf101af72f457735437e5759cffe20faebe2",
+            "displayName": {
+              "value": "0x821f...ebe2"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 17,
+          "address": "0x8bdab7db72dd67996d3fea2ef8c6bef997117e9f",
+          "display_name": "0x8bda...7e9f",
+          "token_amount": 3.1734497975986593e+30,
+          "token_amount_raw": "3173449797598659338094783573314",
+          "share_percent": 418102510868070000,
+          "estimated_profit_usd": 3.500755390253292e+22,
+          "current_value_usd": 3.5144254992429087e+22,
+          "account_info": {
+            "address": "0x8bdab7db72dd67996d3fea2ef8c6bef997117e9f",
+            "displayName": {
+              "value": "0x8bda...7e9f"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 18,
+          "address": "0x3fcd21ee187cd42c5f5dae9491fb6e72f5deed9d",
+          "display_name": "0x3fcd...ed9d",
+          "token_amount": 3.030736539208406e+30,
+          "token_amount_raw": "3030736539208405617659051771662",
+          "share_percent": 399300016588097500,
+          "estimated_profit_usd": 3.3433228671522993e+22,
+          "current_value_usd": 3.356378217465748e+22,
+          "account_info": {
+            "address": "0x3fcd21ee187cd42c5f5dae9491fb6e72f5deed9d",
+            "displayName": {
+              "value": "0x3fcd...ed9d"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 19,
+          "address": "0xba4f49e8662e6332d74f6d921573c1075b3fc824",
+          "display_name": "0xba4f...c824",
+          "token_amount": 2.970413818702896e+30,
+          "token_amount_raw": "2970413818702896264471556534933",
+          "share_percent": 391352488656560300,
+          "estimated_profit_usd": 3.2767785376581943e+22,
+          "current_value_usd": 3.289574038843264e+22,
+          "account_info": {
+            "address": "0xba4f49e8662e6332d74f6d921573c1075b3fc824",
+            "displayName": {
+              "value": "0xba4f...c824"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 20,
+          "address": "0x7085500bc83228a7ee1cafbd9e84a11255cd022e",
+          "display_name": "0x7085...022e",
+          "token_amount": 2.943305064632475e+30,
+          "token_amount_raw": "2943305064632474911170000000000",
+          "share_percent": 387780906036307500,
+          "estimated_profit_usd": 3.2468738210287113e+22,
+          "current_value_usd": 3.259552547206659e+22,
+          "account_info": {
+            "address": "0x7085500bc83228a7ee1cafbd9e84a11255cd022e",
+            "displayName": {
+              "value": "0x7085...022e"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        }
+      ],
+      "top_earners": [
+        {
+          "rank": 1,
+          "address": "0x000000000000000000000000000000000000dead",
+          "display_name": "Null: 0x00...dEaD",
+          "token_amount": 3.520843705293591e+32,
+          "token_amount_raw": "352084370529359079098211960100995",
+          "share_percent": 46387171294507426000,
+          "estimated_profit_usd": 3.8839790655811435e+24,
+          "current_value_usd": 3.8991456257149106e+24,
+          "account_info": {
+            "address": "0x000000000000000000000000000000000000dead",
+            "displayName": {
+              "value": "Null: 0x00...dEaD"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 2,
+          "address": "0x328130164d0f2b9d7a52edc73b3632e713ff0ec6",
+          "display_name": "0x3281...0ec6",
+          "token_amount": 4.374882424647135e+31,
+          "token_amount_raw": "43748824246471354450478047801736",
+          "share_percent": 5763914487891598000,
+          "estimated_profit_usd": 4.8261022567292434e+23,
+          "current_value_usd": 4.844947716205848e+23,
+          "account_info": {
+            "address": "0x328130164d0f2b9d7a52edc73b3632e713ff0ec6",
+            "displayName": {
+              "value": "0x3281...0ec6"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 3,
+          "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+          "display_name": "MEXC 13",
+          "token_amount": 4.163515244359851e+31,
+          "token_amount_raw": "41635152443598513064400449496622",
+          "share_percent": 5485437894815858000,
+          "estimated_profit_usd": 4.592934933183346e+23,
+          "current_value_usd": 4.6108698969610614e+23,
+          "account_info": {
+            "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+            "displayName": {
+              "value": "MEXC 13"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 4,
+          "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071",
+          "display_name": "Gate.io 5",
+          "token_amount": 3.3862028413896023e+31,
+          "token_amount_raw": "33862028413896023899100840446208",
+          "share_percent": 4461327579106191000,
+          "estimated_profit_usd": 3.73545151350929e+23,
+          "current_value_usd": 3.750038088011831e+23,
+          "account_info": {
+            "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071",
+            "displayName": {
+              "value": "Gate.io 5"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        },
+        {
+          "rank": 5,
+          "address": "0xd10f64e5cdd94b98092da4ffbff8a67c96ed697a",
+          "display_name": "0xd10f...697a",
+          "token_amount": 2.0442121406445755e+31,
+          "token_amount_raw": "20442121406445756931903115317198",
+          "share_percent": 2693252716325404000,
+          "estimated_profit_usd": 2.2550495916456155e+23,
+          "current_value_usd": 2.2638553407649668e+23,
+          "account_info": {
+            "address": "0xd10f64e5cdd94b98092da4ffbff8a67c96ed697a",
+            "displayName": {
+              "value": "0xd10f...697a"
+            }
+          },
+          "token_symbol": "Teddy V2",
+          "token_name": "Teddy Doge",
+          "token_growth": 25608.83305987
+        }
+      ],
+      "total_holders_analyzed": 20
+    },
+    "BOYSCLUB": {
+      "token_info": {
+        "rank": 3,
+        "name": "Matt Furie's Boys Club",
+        "symbol": "BOYSCLUB",
+        "price_usd": 0.0013062212654362973,
+        "volume_24h": 0,
+        "percent_change_24h": 10782.48395068,
+        "contract_address": "0x6968676661ac9851c38907bdfcc22d5dd77b564d",
+        "platform": "Ethereum",
+        "coin_id": 30914,
+        "market_cap": 0
+      },
+      "holders_analysis": [
+        {
+          "rank": 1,
+          "address": "0x530433ee503a05c5dfc9ccac7740df230ee3adbd",
+          "display_name": "0x5304...adbd",
+          "token_amount": 2.1152463321683425e+25,
+          "token_amount_raw": "21152463321683425552799011",
+          "share_percent": 21.152463321683424,
+          "estimated_profit_usd": 2.737590502804798e+22,
+          "current_value_usd": 2.7629797407144188e+22,
+          "account_info": {
+            "address": "0x530433ee503a05c5dfc9ccac7740df230ee3adbd",
+            "displayName": {
+              "value": "0x5304...adbd"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 2,
+          "address": "0x98104b3d40a80be9310e2de0e5c5d72677cb3528",
+          "display_name": "0x9810...3528",
+          "token_amount": 4.01886225e+24,
+          "token_amount_raw": "4018862250000000000000000",
+          "share_percent": 4.01886225,
+          "estimated_profit_usd": 5.201285051468476e+21,
+          "current_value_usd": 5.249523333809165e+21,
+          "account_info": {
+            "address": "0x98104b3d40a80be9310e2de0e5c5d72677cb3528",
+            "displayName": {
+              "value": "0x9810...3528"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 3,
+          "address": "0x9f3095269bc6bd24e8e3eef5163a04cae686a455",
+          "display_name": "baphomette.eth",
+          "token_amount": 3e+24,
+          "token_amount_raw": "3000000000000000005694014",
+          "share_percent": 3,
+          "estimated_profit_usd": 3.882654886816643e+21,
+          "current_value_usd": 3.918663796308892e+21,
+          "account_info": {
+            "address": "0x9f3095269bc6bd24e8e3eef5163a04cae686a455",
+            "displayName": {
+              "value": "baphomette.eth"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 4,
+          "address": "0x066248cdaa992f82c9e64d6eb2a31d1c37d22b73",
+          "display_name": "0x0662...2b73",
+          "token_amount": 2.452068036252065e+24,
+          "token_amount_raw": "2452068036252064830124587",
+          "share_percent": 2.452068036252065,
+          "estimated_profit_usd": 3.1735113145869895e+21,
+          "current_value_usd": 3.2029434132490685e+21,
+          "account_info": {
+            "address": "0x066248cdaa992f82c9e64d6eb2a31d1c37d22b73",
+            "displayName": {
+              "value": "0x0662...2b73"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 5,
+          "address": "0x9cfa8640ea85ddc05e8d734f56c1bab1ead2ced5",
+          "display_name": "0x9cfa...ced5",
+          "token_amount": 2.4007626157193804e+24,
+          "token_amount_raw": "2400762615719380478802061",
+          "share_percent": 2.4007626157193807,
+          "estimated_profit_usd": 3.1071109006698527e+21,
+          "current_value_usd": 3.1359271819171243e+21,
+          "account_info": {
+            "address": "0x9cfa8640ea85ddc05e8d734f56c1bab1ead2ced5",
+            "displayName": {
+              "value": "0x9cfa...ced5"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 6,
+          "address": "0x357c72ef9df95793023f4d1a6c6ad1018ebf4018",
+          "display_name": "0x357c...4018",
+          "token_amount": 2.266897291944876e+24,
+          "token_amount_raw": "2266897291944876072115337",
+          "share_percent": 2.266897291944876,
+          "estimated_profit_usd": 2.933859949493729e+21,
+          "current_value_usd": 2.9610694492983515e+21,
+          "account_info": {
+            "address": "0x357c72ef9df95793023f4d1a6c6ad1018ebf4018",
+            "displayName": {
+              "value": "0x357c...4018"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 7,
+          "address": "0xf3376faf6053dc982227f28ae6e2db6cb7902211",
+          "display_name": "0xf337...2211",
+          "token_amount": 2.2349093458696222e+24,
+          "token_amount_raw": "2234909345869622161751668",
+          "share_percent": 2.2349093458696223,
+          "estimated_profit_usd": 2.892460564444292e+21,
+          "current_value_usd": 2.9192861138972254e+21,
+          "account_info": {
+            "address": "0xf3376faf6053dc982227f28ae6e2db6cb7902211",
+            "displayName": {
+              "value": "0xf337...2211"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 8,
+          "address": "0x84b8d7709292aa6a1c5a5f6adff9f9ae7d04f5e9",
+          "display_name": "0x84b8...f5e9",
+          "token_amount": 2.1120416449223838e+24,
+          "token_amount_raw": "2112041644922383669149714",
+          "share_percent": 2.1120416449223836,
+          "estimated_profit_usd": 2.733442937939385e+21,
+          "current_value_usd": 2.758793710084675e+21,
+          "account_info": {
+            "address": "0x84b8d7709292aa6a1c5a5f6adff9f9ae7d04f5e9",
+            "displayName": {
+              "value": "0x84b8...f5e9"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 9,
+          "address": "0xab725b8429c293a06fda37c4ea2113ae4c9e9d17",
+          "display_name": "boysclubbank.eth",
+          "token_amount": 2.0099999999999972e+24,
+          "token_amount_raw": "2009999999999997111160313",
+          "share_percent": 2.009999999999997,
+          "estimated_profit_usd": 2.601378774167147e+21,
+          "current_value_usd": 2.625504743526954e+21,
+          "account_info": {
+            "address": "0xab725b8429c293a06fda37c4ea2113ae4c9e9d17",
+            "displayName": {
+              "value": "boysclubbank.eth"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 10,
+          "address": "0x4b7801fa5fdf95d58c986488c8a68aa88e05d981",
+          "display_name": "0x4b78...d981",
+          "token_amount": 1.9547973433216757e+24,
+          "token_amount_raw": "1954797343321675830853517",
+          "share_percent": 1.9547973433216759,
+          "estimated_profit_usd": 2.5299344859280316e+21,
+          "current_value_usd": 2.553397859465151e+21,
+          "account_info": {
+            "address": "0x4b7801fa5fdf95d58c986488c8a68aa88e05d981",
+            "displayName": {
+              "value": "0x4b78...d981"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 11,
+          "address": "0xcbfefaafacf7822458250c19755401edb1875710",
+          "display_name": "0xcbfe...5710",
+          "token_amount": 1.682159966667763e+24,
+          "token_amount_raw": "1682159966667762976444966",
+          "share_percent": 1.682159966667763,
+          "estimated_profit_usd": 2.177082204996637e+21,
+          "current_value_usd": 2.197273120327045e+21,
+          "account_info": {
+            "address": "0xcbfefaafacf7822458250c19755401edb1875710",
+            "displayName": {
+              "value": "0xcbfe...5710"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 12,
+          "address": "0x5869e1b6cf7d031063247239ea6091dbe340b47d",
+          "display_name": "0x5869...b47d",
+          "token_amount": 1.563017844819731e+24,
+          "token_amount_raw": "1563017844819730983408445",
+          "share_percent": 1.563017844819731,
+          "estimated_profit_usd": 2.0228862911236483e+21,
+          "current_value_usd": 2.041647147159943e+21,
+          "account_info": {
+            "address": "0x5869e1b6cf7d031063247239ea6091dbe340b47d",
+            "displayName": {
+              "value": "0x5869...b47d"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 13,
+          "address": "0x6d313e734e9649630931e5a6aba5f3bd7e452b58",
+          "display_name": "0x6d31...2b58",
+          "token_amount": 1.4147691762914502e+24,
+          "token_amount_raw": "1414769176291450351643053",
+          "share_percent": 1.4147691762914503,
+          "estimated_profit_usd": 1.8310201520151852e+21,
+          "current_value_usd": 1.848001583755686e+21,
+          "account_info": {
+            "address": "0x6d313e734e9649630931e5a6aba5f3bd7e452b58",
+            "displayName": {
+              "value": "0x6d31...2b58"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 14,
+          "address": "0x06eb6dd608dbcfe98733b405488bf9a7a8d095f7",
+          "display_name": "0x06eb...95f7",
+          "token_amount": 1.3742671009771542e+24,
+          "token_amount_raw": "1374267100977154076053582",
+          "share_percent": 1.374267100977154,
+          "estimated_profit_usd": 1.7786016251334296e+21,
+          "current_value_usd": 1.79509691168585e+21,
+          "account_info": {
+            "address": "0x06eb6dd608dbcfe98733b405488bf9a7a8d095f7",
+            "displayName": {
+              "value": "0x06eb...95f7"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 15,
+          "address": "0xe4954870f73aa85cd51c94149ebc6860582150ab",
+          "display_name": "0xe495...50ab",
+          "token_amount": 1.3000000000682577e+24,
+          "token_amount_raw": "1300000000068257569631160",
+          "share_percent": 1.3000000000682577,
+          "estimated_profit_usd": 1.6824837843755522e+21,
+          "current_value_usd": 1.6980876451563462e+21,
+          "account_info": {
+            "address": "0xe4954870f73aa85cd51c94149ebc6860582150ab",
+            "displayName": {
+              "value": "0xe495...50ab"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 16,
+          "address": "0x61ffddc688b257874309575622eb48053e47dcfb",
+          "display_name": "0x61ff...dcfb",
+          "token_amount": 1.2648492011301835e+24,
+          "token_amount_raw": "1264849201130183669868575",
+          "share_percent": 1.2648492011301837,
+          "estimated_profit_usd": 1.6369909772847447e+21,
+          "current_value_usd": 1.652172924086358e+21,
+          "account_info": {
+            "address": "0x61ffddc688b257874309575622eb48053e47dcfb",
+            "displayName": {
+              "value": "0x61ff...dcfb"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 17,
+          "address": "0xab492e09ac705e7c9a9f800d3a6d802a7ad26e86",
+          "display_name": "0xab49...6e86",
+          "token_amount": 1.0775079444445518e+24,
+          "token_amount_raw": "1077507944444551893435438",
+          "share_percent": 1.077507944444552,
+          "estimated_profit_usd": 1.3945304953604648e+21,
+          "current_value_usd": 1.407463790710026e+21,
+          "account_info": {
+            "address": "0xab492e09ac705e7c9a9f800d3a6d802a7ad26e86",
+            "displayName": {
+              "value": "0xab49...6e86"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 18,
+          "address": "0x33ec3af7e6654394a176f80e11c4968a277ce024",
+          "display_name": "loyalwhale.eth",
+          "token_amount": 1.0000009876761606e+24,
+          "token_amount_raw": "1000000987676160558799242",
+          "share_percent": 1.0000009876761606,
+          "estimated_profit_usd": 1.2942195738741047e+21,
+          "current_value_usd": 1.3062225555599015e+21,
+          "account_info": {
+            "address": "0x33ec3af7e6654394a176f80e11c4968a277ce024",
+            "displayName": {
+              "value": "loyalwhale.eth"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 19,
+          "address": "0xf325b178f15180726ce8daa7679a7f2f37536595",
+          "display_name": "0xf325...6595",
+          "token_amount": 1e+24,
+          "token_amount_raw": "1000000000000000000660873",
+          "share_percent": 1,
+          "estimated_profit_usd": 1.2942182956055475e+21,
+          "current_value_usd": 1.3062212654362971e+21,
+          "account_info": {
+            "address": "0xf325b178f15180726ce8daa7679a7f2f37536595",
+            "displayName": {
+              "value": "0xf325...6595"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 20,
+          "address": "0x99192c011c319b77d37bbb55f5b9b801bbf629f7",
+          "display_name": "0x9919...29f7",
+          "token_amount": 9.821227041216006e+23,
+          "token_amount_raw": "982122704121600600000000",
+          "share_percent": 0.9821227041216006,
+          "estimated_profit_usd": 1.2710811722037694e+21,
+          "current_value_usd": 1.2828695613914352e+21,
+          "account_info": {
+            "address": "0x99192c011c319b77d37bbb55f5b9b801bbf629f7",
+            "displayName": {
+              "value": "0x9919...29f7"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        }
+      ],
+      "top_earners": [
+        {
+          "rank": 1,
+          "address": "0x530433ee503a05c5dfc9ccac7740df230ee3adbd",
+          "display_name": "0x5304...adbd",
+          "token_amount": 2.1152463321683425e+25,
+          "token_amount_raw": "21152463321683425552799011",
+          "share_percent": 21.152463321683424,
+          "estimated_profit_usd": 2.737590502804798e+22,
+          "current_value_usd": 2.7629797407144188e+22,
+          "account_info": {
+            "address": "0x530433ee503a05c5dfc9ccac7740df230ee3adbd",
+            "displayName": {
+              "value": "0x5304...adbd"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 2,
+          "address": "0x98104b3d40a80be9310e2de0e5c5d72677cb3528",
+          "display_name": "0x9810...3528",
+          "token_amount": 4.01886225e+24,
+          "token_amount_raw": "4018862250000000000000000",
+          "share_percent": 4.01886225,
+          "estimated_profit_usd": 5.201285051468476e+21,
+          "current_value_usd": 5.249523333809165e+21,
+          "account_info": {
+            "address": "0x98104b3d40a80be9310e2de0e5c5d72677cb3528",
+            "displayName": {
+              "value": "0x9810...3528"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 3,
+          "address": "0x9f3095269bc6bd24e8e3eef5163a04cae686a455",
+          "display_name": "baphomette.eth",
+          "token_amount": 3e+24,
+          "token_amount_raw": "3000000000000000005694014",
+          "share_percent": 3,
+          "estimated_profit_usd": 3.882654886816643e+21,
+          "current_value_usd": 3.918663796308892e+21,
+          "account_info": {
+            "address": "0x9f3095269bc6bd24e8e3eef5163a04cae686a455",
+            "displayName": {
+              "value": "baphomette.eth"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 4,
+          "address": "0x066248cdaa992f82c9e64d6eb2a31d1c37d22b73",
+          "display_name": "0x0662...2b73",
+          "token_amount": 2.452068036252065e+24,
+          "token_amount_raw": "2452068036252064830124587",
+          "share_percent": 2.452068036252065,
+          "estimated_profit_usd": 3.1735113145869895e+21,
+          "current_value_usd": 3.2029434132490685e+21,
+          "account_info": {
+            "address": "0x066248cdaa992f82c9e64d6eb2a31d1c37d22b73",
+            "displayName": {
+              "value": "0x0662...2b73"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        },
+        {
+          "rank": 5,
+          "address": "0x9cfa8640ea85ddc05e8d734f56c1bab1ead2ced5",
+          "display_name": "0x9cfa...ced5",
+          "token_amount": 2.4007626157193804e+24,
+          "token_amount_raw": "2400762615719380478802061",
+          "share_percent": 2.4007626157193807,
+          "estimated_profit_usd": 3.1071109006698527e+21,
+          "current_value_usd": 3.1359271819171243e+21,
+          "account_info": {
+            "address": "0x9cfa8640ea85ddc05e8d734f56c1bab1ead2ced5",
+            "displayName": {
+              "value": "0x9cfa...ced5"
+            }
+          },
+          "token_symbol": "BOYSCLUB",
+          "token_name": "Matt Furie's Boys Club",
+          "token_growth": 10782.48395068
+        }
+      ],
+      "total_holders_analyzed": 20
+    },
+    "GO": {
+      "token_info": {
+        "rank": 4,
+        "name": "GoChain",
+        "symbol": "GO",
+        "price_usd": 0.0008807948171137754,
+        "volume_24h": 618.3059706,
+        "percent_change_24h": 3877.83669619,
+        "contract_address": "0x845f4fbf04d03958be38ff91e43dfb5d40dd8241",
+        "platform": "Base",
+        "coin_id": 2861,
+        "market_cap": 1174785.4498122567
+      },
+      "holders_analysis": [
+        {
+          "rank": 1,
+          "address": "0x498581ff718922c3f8e6a244956af099b2652b2b",
+          "display_name": "0x4985...2b2b",
+          "token_amount": 8.085633741435674e+24,
+          "token_amount_raw": "8085633741435673782238684",
+          "share_percent": 53.88992676855643,
+          "estimated_profit_usd": 6.942747674483628e+21,
+          "current_value_usd": 7.121784292536806e+21,
+          "account_info": {
+            "address": "0x498581ff718922c3f8e6a244956af099b2652b2b",
+            "displayName": {
+              "value": "0x4985...2b2b"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 2,
+          "address": "0x07db58c645f8ef44d10fa663b4f46960f378100e",
+          "display_name": "0x07db...100e",
+          "token_amount": 5.97831698333117e+24,
+          "token_amount_raw": "5978316983331170135485634",
+          "share_percent": 39.84487484016679,
+          "estimated_profit_usd": 5.133295380502694e+21,
+          "current_value_usd": 5.265670613981356e+21,
+          "account_info": {
+            "address": "0x07db58c645f8ef44d10fa663b4f46960f378100e",
+            "displayName": {
+              "value": "0x07db...100e"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 3,
+          "address": "0x52944215a116c489f1ac0ffcbce0771240956d83",
+          "display_name": "0x5294...6d83",
+          "token_amount": 2.1285175118753528e+23,
+          "token_amount_raw": "212851751187535274297612",
+          "share_percent": 1.4186352796656074,
+          "estimated_profit_usd": 1.8276563690907877e+20,
+          "current_value_usd": 1.8747871925957195e+20,
+          "account_info": {
+            "address": "0x52944215a116c489f1ac0ffcbce0771240956d83",
+            "displayName": {
+              "value": "0x5294...6d83"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 4,
+          "address": "0x35056b986151301d9fd48e7e3edd1947cbeec893",
+          "display_name": "0x3505...c893",
+          "token_amount": 1.44747262440232e+23,
+          "token_amount_raw": "144747262440231995505495",
+          "share_percent": 0.9647257867839174,
+          "estimated_profit_usd": 1.2428756382382907e+20,
+          "current_value_usd": 1.2749263854876379e+20,
+          "account_info": {
+            "address": "0x35056b986151301d9fd48e7e3edd1947cbeec893",
+            "displayName": {
+              "value": "0x3505...c893"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 5,
+          "address": "0xe73e1cbea54a1b3f8d5543e9d255e9b0793a2607",
+          "display_name": "0xe73e...2607",
+          "token_amount": 1.3244548143281749e+23,
+          "token_amount_raw": "132445481432817496001075",
+          "share_percent": 0.8827356671702785,
+          "estimated_profit_usd": 1.1372461177672471e+20,
+          "current_value_usd": 1.166572935961644e+20,
+          "account_info": {
+            "address": "0xe73e1cbea54a1b3f8d5543e9d255e9b0793a2607",
+            "displayName": {
+              "value": "0xe73e...2607"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 6,
+          "address": "0xeecafb9d257c44fb3f2783f9755f9dc835321ad2",
+          "display_name": "0xeeca...1ad2",
+          "token_amount": 1.2944963847168902e+23,
+          "token_amount_raw": "129449638471689009423467",
+          "share_percent": 0.8627686784408777,
+          "estimated_profit_usd": 1.1115222445167136e+20,
+          "current_value_usd": 1.1401857064311567e+20,
+          "account_info": {
+            "address": "0xeecafb9d257c44fb3f2783f9755f9dc835321ad2",
+            "displayName": {
+              "value": "0xeeca...1ad2"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 7,
+          "address": "0xc4113877ba3b7eb408bc792cc0836964baf64a9b",
+          "display_name": "0xc411...4a9b",
+          "token_amount": 9.6559e+22,
+          "token_amount_raw": "96559000000000000000000",
+          "share_percent": 0.6435559172287099,
+          "estimated_profit_usd": 8.291060344039675e+19,
+          "current_value_usd": 8.504866674568903e+19,
+          "account_info": {
+            "address": "0xc4113877ba3b7eb408bc792cc0836964baf64a9b",
+            "displayName": {
+              "value": "0xc411...4a9b"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 8,
+          "address": "0xbbdb202980b37e8b3a01cb400beebf3f08bf19f4",
+          "display_name": "0xbbdb...19f4",
+          "token_amount": 7.519488103555232e+22,
+          "token_amount_raw": "75194881035552313120377",
+          "share_percent": 0.5011662365573234,
+          "estimated_profit_usd": 6.456625443807919e+19,
+          "current_value_usd": 6.62312614896014e+19,
+          "account_info": {
+            "address": "0xbbdb202980b37e8b3a01cb400beebf3f08bf19f4",
+            "displayName": {
+              "value": "0xbbdb...19f4"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 9,
+          "address": "0x9a17387c71b2e56dfbb9ddbb694ace8e752349ce",
+          "display_name": "0x9a17...49ce",
+          "token_amount": 3.4063e+22,
+          "token_amount_raw": "34063000000000000000000",
+          "share_percent": 0.2270264315968635,
+          "estimated_profit_usd": 2.924827188548177e+19,
+          "current_value_usd": 3.000251385534653e+19,
+          "account_info": {
+            "address": "0x9a17387c71b2e56dfbb9ddbb694ace8e752349ce",
+            "displayName": {
+              "value": "0x9a17...49ce"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 10,
+          "address": "0x5aafc1f252d544f744d17a4e734afd6efc47ede4",
+          "display_name": "0x5aaf...ede4",
+          "token_amount": 3.0709964545464556e+22,
+          "token_amount_raw": "30709964545464556788181",
+          "share_percent": 0.20467879121695132,
+          "estimated_profit_usd": 2.6369180419201274e+19,
+          "current_value_usd": 2.7049177605392978e+19,
+          "account_info": {
+            "address": "0x5aafc1f252d544f744d17a4e734afd6efc47ede4",
+            "displayName": {
+              "value": "0x5aaf...ede4"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 11,
+          "address": "0x9f86bd5b286216dacd51fdd5f713e3a8928c0f8e",
+          "display_name": "0x9f86...0f8e",
+          "token_amount": 1.853112989769721e+22,
+          "token_amount_raw": "18531129897697209090207",
+          "share_percent": 0.1235080965896177,
+          "estimated_profit_usd": 1.591179654149746e+19,
+          "current_value_usd": 1.6322123169153829e+19,
+          "account_info": {
+            "address": "0x9f86bd5b286216dacd51fdd5f713e3a8928c0f8e",
+            "displayName": {
+              "value": "0x9f86...0f8e"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 12,
+          "address": "0x0c17f74c473abdc8b5de1c7cd046d5110d8e7df7",
+          "display_name": "0x0c17...7df7",
+          "token_amount": 1.728928116231e+22,
+          "token_amount_raw": "17289281162310000000001",
+          "share_percent": 0.11523130103496791,
+          "estimated_profit_usd": 1.484548031998888e+19,
+          "current_value_usd": 1.5228309239385477e+19,
+          "account_info": {
+            "address": "0x0c17f74c473abdc8b5de1c7cd046d5110d8e7df7",
+            "displayName": {
+              "value": "0x0c17...7df7"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 13,
+          "address": "0x057cce9bf3f562482aa0c14bfdee979a08624325",
+          "display_name": "0x057c...4325",
+          "token_amount": 1.138e+22,
+          "token_amount_raw": "11380000000000000000000",
+          "share_percent": 0.07584654292259363,
+          "estimated_profit_usd": 9.771462703131918e+18,
+          "current_value_usd": 1.0023445018754763e+19,
+          "account_info": {
+            "address": "0x057cce9bf3f562482aa0c14bfdee979a08624325",
+            "displayName": {
+              "value": "0x057c...4325"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 14,
+          "address": "0x6eda08718bb5d0390db1e254b2de356b792e2226",
+          "display_name": "0x6eda...2226",
+          "token_amount": 9.207221330787434e+21,
+          "token_amount_raw": "9207221330787434848358",
+          "share_percent": 0.06136519401260007,
+          "estimated_profit_usd": 7.905801391324258e+18,
+          "current_value_usd": 8.10967282817697e+18,
+          "account_info": {
+            "address": "0x6eda08718bb5d0390db1e254b2de356b792e2226",
+            "displayName": {
+              "value": "0x6eda...2226"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 15,
+          "address": "0x43a4189ddab1d820239e8e4ed166e0d811b234ad",
+          "display_name": "0x43a4...34ad",
+          "token_amount": 8.49024373421e+21,
+          "token_amount_raw": "8490243734210000000000",
+          "share_percent": 0.05658661123111075,
+          "estimated_profit_usd": 7.290166958640816e+18,
+          "current_value_usd": 7.478162677124874e+18,
+          "account_info": {
+            "address": "0x43a4189ddab1d820239e8e4ed166e0d811b234ad",
+            "displayName": {
+              "value": "0x43a4...34ad"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 16,
+          "address": "0x57afe0096d8a91821e3c7797861462994163fac5",
+          "display_name": "0x57af...fac5",
+          "token_amount": 5.803262433949362e+21,
+          "token_amount_raw": "5803262433949361342028",
+          "share_percent": 0.03867815406745302,
+          "estimated_profit_usd": 4.98298439629374e+18,
+          "current_value_usd": 5.11148347417367e+18,
+          "account_info": {
+            "address": "0x57afe0096d8a91821e3c7797861462994163fac5",
+            "displayName": {
+              "value": "0x57af...fac5"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 17,
+          "address": "0x5d64d14d2cf4fe5fe4e65b1c7e3d11e18d493091",
+          "display_name": "0x5d64...3091",
+          "token_amount": 2.3772145545472665e+21,
+          "token_amount_raw": "2377214554547266474462",
+          "share_percent": 0.01584389329944495,
+          "estimated_profit_usd": 2.0412006464939346e+18,
+          "current_value_usd": 2.0938382588126646e+18,
+          "account_info": {
+            "address": "0x5d64d14d2cf4fe5fe4e65b1c7e3d11e18d493091",
+            "displayName": {
+              "value": "0x5d64...3091"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 18,
+          "address": "0x1d77fe46f5b9c26e7f165faf1fd0e5847f10931d",
+          "display_name": "0x1d77...931d",
+          "token_amount": 2.1177751182564983e+21,
+          "token_amount_raw": "2117775118256498161449",
+          "share_percent": 0.014114755835434294,
+          "estimated_profit_usd": 1.818432388546939e+18,
+          "current_value_usd": 1.8653253479728364e+18,
+          "account_info": {
+            "address": "0x1d77fe46f5b9c26e7f165faf1fd0e5847f10931d",
+            "displayName": {
+              "value": "0x1d77...931d"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 19,
+          "address": "0x05f278182b9d478cee92fb443557f9cf0fb5ca79",
+          "display_name": "0x05f2...ca79",
+          "token_amount": 1.690374906251488e+21,
+          "token_amount_raw": "1690374906251488007572",
+          "share_percent": 0.011266176878934856,
+          "estimated_profit_usd": 1.451444231172806e+18,
+          "current_value_usd": 1.4888734564054945e+18,
+          "account_info": {
+            "address": "0x05f278182b9d478cee92fb443557f9cf0fb5ca79",
+            "displayName": {
+              "value": "0x05f2...ca79"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 20,
+          "address": "0xafa2a89cb43619677d9c72e81f6d4c8a730a1022",
+          "display_name": "0xafa2...1022",
+          "token_amount": 1.6422737740105937e+21,
+          "token_amount_raw": "1642273774010593682215",
+          "share_percent": 0.01094558772329915,
+          "estimated_profit_usd": 1.4101420853318292e+18,
+          "current_value_usd": 1.4465062284304105e+18,
+          "account_info": {
+            "address": "0xafa2a89cb43619677d9c72e81f6d4c8a730a1022",
+            "displayName": {
+              "value": "0xafa2...1022"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        }
+      ],
+      "top_earners": [
+        {
+          "rank": 1,
+          "address": "0x498581ff718922c3f8e6a244956af099b2652b2b",
+          "display_name": "0x4985...2b2b",
+          "token_amount": 8.085633741435674e+24,
+          "token_amount_raw": "8085633741435673782238684",
+          "share_percent": 53.88992676855643,
+          "estimated_profit_usd": 6.942747674483628e+21,
+          "current_value_usd": 7.121784292536806e+21,
+          "account_info": {
+            "address": "0x498581ff718922c3f8e6a244956af099b2652b2b",
+            "displayName": {
+              "value": "0x4985...2b2b"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 2,
+          "address": "0x07db58c645f8ef44d10fa663b4f46960f378100e",
+          "display_name": "0x07db...100e",
+          "token_amount": 5.97831698333117e+24,
+          "token_amount_raw": "5978316983331170135485634",
+          "share_percent": 39.84487484016679,
+          "estimated_profit_usd": 5.133295380502694e+21,
+          "current_value_usd": 5.265670613981356e+21,
+          "account_info": {
+            "address": "0x07db58c645f8ef44d10fa663b4f46960f378100e",
+            "displayName": {
+              "value": "0x07db...100e"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 3,
+          "address": "0x52944215a116c489f1ac0ffcbce0771240956d83",
+          "display_name": "0x5294...6d83",
+          "token_amount": 2.1285175118753528e+23,
+          "token_amount_raw": "212851751187535274297612",
+          "share_percent": 1.4186352796656074,
+          "estimated_profit_usd": 1.8276563690907877e+20,
+          "current_value_usd": 1.8747871925957195e+20,
+          "account_info": {
+            "address": "0x52944215a116c489f1ac0ffcbce0771240956d83",
+            "displayName": {
+              "value": "0x5294...6d83"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 4,
+          "address": "0x35056b986151301d9fd48e7e3edd1947cbeec893",
+          "display_name": "0x3505...c893",
+          "token_amount": 1.44747262440232e+23,
+          "token_amount_raw": "144747262440231995505495",
+          "share_percent": 0.9647257867839174,
+          "estimated_profit_usd": 1.2428756382382907e+20,
+          "current_value_usd": 1.2749263854876379e+20,
+          "account_info": {
+            "address": "0x35056b986151301d9fd48e7e3edd1947cbeec893",
+            "displayName": {
+              "value": "0x3505...c893"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        },
+        {
+          "rank": 5,
+          "address": "0xe73e1cbea54a1b3f8d5543e9d255e9b0793a2607",
+          "display_name": "0xe73e...2607",
+          "token_amount": 1.3244548143281749e+23,
+          "token_amount_raw": "132445481432817496001075",
+          "share_percent": 0.8827356671702785,
+          "estimated_profit_usd": 1.1372461177672471e+20,
+          "current_value_usd": 1.166572935961644e+20,
+          "account_info": {
+            "address": "0xe73e1cbea54a1b3f8d5543e9d255e9b0793a2607",
+            "displayName": {
+              "value": "0xe73e...2607"
+            }
+          },
+          "token_symbol": "GO",
+          "token_name": "GoChain",
+          "token_growth": 3877.83669619
+        }
+      ],
+      "total_holders_analyzed": 20
+    },
+    "DEUSD": {
+      "token_info": {
+        "rank": 5,
+        "name": "Elixir deUSD",
+        "symbol": "DEUSD",
+        "price_usd": 0.0061198979593244055,
+        "volume_24h": 0,
+        "percent_change_24h": 2986.43190515,
+        "contract_address": "0x15700b564ca08d9439c58ca5053166e8317aa138",
+        "platform": "Ethereum",
+        "coin_id": 31024,
+        "market_cap": 564023.8995449978
+      },
+      "holders_analysis": [
+        {
+          "rank": 1,
+          "address": "0xd629edc5f1ff4cb7d9dd0a5be72c1d9fc5d02709",
+          "display_name": "0xd629...2709",
+          "token_amount": 2.9679701590469144e+25,
+          "token_amount_raw": "29679701590469143188870898",
+          "share_percent": 32.20373203039749,
+          "estimated_profit_usd": 1.757517378233456e+23,
+          "current_value_usd": 1.8163674519686944e+23,
+          "account_info": {
+            "address": "0xd629edc5f1ff4cb7d9dd0a5be72c1d9fc5d02709",
+            "displayName": {
+              "value": "0xd629...2709"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 2,
+          "address": "0x5c5b196abe0d54485975d1ec29617d42d9198326",
+          "display_name": "Elixir Protocol: sdeUSD Token",
+          "token_amount": 2.2783963686946624e+25,
+          "token_amount_raw": "22783963686946621830463077",
+          "share_percent": 24.72156463326282,
+          "estimated_profit_usd": 1.3491783939535135e+23,
+          "current_value_usd": 1.39435532873066e+23,
+          "account_info": {
+            "address": "0x5c5b196abe0d54485975d1ec29617d42d9198326",
+            "displayName": {
+              "value": "Elixir Protocol: sdeUSD Token"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 3,
+          "address": "0x7667095caa12b79fca489ff6e2198ca01fdae057",
+          "display_name": "0x7667...e057",
+          "token_amount": 9.441717110068007e+24,
+          "token_amount_raw": "9441717110068007590627781",
+          "share_percent": 10.24466256146893,
+          "estimated_profit_usd": 5.591020465865266e+22,
+          "current_value_usd": 5.778234527442352e+22,
+          "account_info": {
+            "address": "0x7667095caa12b79fca489ff6e2198ca01fdae057",
+            "displayName": {
+              "value": "0x7667...e057"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 4,
+          "address": "0xc3d688b66703497daa19211eedff47f25384cdc3",
+          "display_name": "Compound III: supply cUSDCv3",
+          "token_amount": 7.758126385688418e+24,
+          "token_amount_raw": "7758126385688417306130398",
+          "share_percent": 8.417895389584904,
+          "estimated_profit_usd": 4.594063017721661e+22,
+          "current_value_usd": 4.747894183595538e+22,
+          "account_info": {
+            "address": "0xc3d688b66703497daa19211eedff47f25384cdc3",
+            "displayName": {
+              "value": "Compound III: supply cUSDCv3"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 5,
+          "address": "0x3afdc9bca9213a35503b077a6072f3d0d5ab0840",
+          "display_name": "0x3afd...0840",
+          "token_amount": 6.2615020726047e+24,
+          "token_amount_raw": "6261502072604700353743149",
+          "share_percent": 6.793994684862089,
+          "estimated_profit_usd": 3.7078198623066458e+22,
+          "current_value_usd": 3.831975375643904e+22,
+          "account_info": {
+            "address": "0x3afdc9bca9213a35503b077a6072f3d0d5ab0840",
+            "displayName": {
+              "value": "0x3afd...0840"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 6,
+          "address": "0x14bcd9da052cdc6fe0b9446d5a616d5b7b4d4550",
+          "display_name": "0x14bc...4550",
+          "token_amount": 6.224078903157644e+24,
+          "token_amount_raw": "6224078903157644851248992",
+          "share_percent": 6.7533889625664125,
+          "estimated_profit_usd": 3.685659305721772e+22,
+          "current_value_usd": 3.809072777810855e+22,
+          "account_info": {
+            "address": "0x14bcd9da052cdc6fe0b9446d5a616d5b7b4d4550",
+            "displayName": {
+              "value": "0x14bc...4550"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 7,
+          "address": "0x5da238e590f31c8e7b253dae27d05381515f3e28",
+          "display_name": "0x5da2...3e28",
+          "token_amount": 5.665120609445072e+24,
+          "token_amount_raw": "5665120609445072043701264",
+          "share_percent": 6.14689556329759,
+          "estimated_profit_usd": 3.3546657773963285e+22,
+          "current_value_usd": 3.4669960057069526e+22,
+          "account_info": {
+            "address": "0x5da238e590f31c8e7b253dae27d05381515f3e28",
+            "displayName": {
+              "value": "0x5da2...3e28"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 8,
+          "address": "0x15eb6f11b858bfdcffedf9b1a45770b29abd8d27",
+          "display_name": "0x15eb...8d27",
+          "token_amount": 5.069627360964556e+24,
+          "token_amount_raw": "5069627360964555520085419",
+          "share_percent": 5.500760192241984,
+          "estimated_profit_usd": 3.0020376589379926e+22,
+          "current_value_usd": 3.102560214090216e+22,
+          "account_info": {
+            "address": "0x15eb6f11b858bfdcffedf9b1a45770b29abd8d27",
+            "displayName": {
+              "value": "0x15eb...8d27"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 9,
+          "address": "0x4595c32720718fe0e4047b2683e255515123148a",
+          "display_name": "0x4595...148a",
+          "token_amount": 4.076511475700266e+24,
+          "token_amount_raw": "4076511475700266233722999",
+          "share_percent": 4.423187436104424,
+          "estimated_profit_usd": 2.4139527613754825e+22,
+          "current_value_usd": 2.494783426130058e+22,
+          "account_info": {
+            "address": "0x4595c32720718fe0e4047b2683e255515123148a",
+            "displayName": {
+              "value": "0x4595...148a"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 10,
+          "address": "0x137b16525fb8bc792fdfd1686f20da2aad4d231b",
+          "display_name": "0x137b...231b",
+          "token_amount": 2.79999e+24,
+          "token_amount_raw": "2799990000000000000000000",
+          "share_percent": 3.0381076229131776,
+          "estimated_profit_usd": 1.6580460113049634e+22,
+          "current_value_usd": 1.7135653087128741e+22,
+          "account_info": {
+            "address": "0x137b16525fb8bc792fdfd1686f20da2aad4d231b",
+            "displayName": {
+              "value": "0x137b...231b"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 11,
+          "address": "0x8d4d699abf3044306008c6bea8e78632f999c281",
+          "display_name": "0x8d4d...c281",
+          "token_amount": 8.13644e+23,
+          "token_amount_raw": "813644000000000000000000",
+          "share_percent": 0.8828381668282992,
+          "estimated_profit_usd": 4.818085738956981e+21,
+          "current_value_usd": 4.979418255216546e+21,
+          "account_info": {
+            "address": "0x8d4d699abf3044306008c6bea8e78632f999c281",
+            "displayName": {
+              "value": "0x8d4d...c281"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 12,
+          "address": "0x5f6c431ac417f0f430b84a666a563fabe681da94",
+          "display_name": "0x5f6c...da94",
+          "token_amount": 7.842040293017911e+23,
+          "token_amount_raw": "784204029301791136609158",
+          "share_percent": 0.850894552959475,
+          "estimated_profit_usd": 4.6437535949525373e+21,
+          "current_value_usd": 4.799248638618007e+21,
+          "account_info": {
+            "address": "0x5f6c431ac417f0f430b84a666a563fabe681da94",
+            "displayName": {
+              "value": "0x5f6c...da94"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 13,
+          "address": "0x738744237b7fd97af670d9ddf54390c24263cea8",
+          "display_name": "0x7387...cea8",
+          "token_amount": 6.892801748446285e+23,
+          "token_amount_raw": "689280174844628575600415",
+          "share_percent": 0.7478981544642638,
+          "estimated_profit_usd": 4.0816511650853185e+21,
+          "current_value_usd": 4.2183243354344113e+21,
+          "account_info": {
+            "address": "0x738744237b7fd97af670d9ddf54390c24263cea8",
+            "displayName": {
+              "value": "0x7387...cea8"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 14,
+          "address": "0x4eeb03b2b8f55159f47b3548faafe3efaff43eb9",
+          "display_name": "0x4eeb...3eb9",
+          "token_amount": 4.781841726728797e+23,
+          "token_amount_raw": "478184172672879712517269",
+          "share_percent": 0.5188500602337534,
+          "estimated_profit_usd": 2.8316221135412344e+21,
+          "current_value_usd": 2.9264383425219857e+21,
+          "account_info": {
+            "address": "0x4eeb03b2b8f55159f47b3548faafe3efaff43eb9",
+            "displayName": {
+              "value": "0x4eeb...3eb9"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 15,
+          "address": "0x7c4e143b23d72e6938e06291f705b5ae3d5c7c7c",
+          "display_name": "0x7c4e...7c7c",
+          "token_amount": 2.967245383556355e+23,
+          "token_amount_raw": "296724538355635481831909",
+          "share_percent": 0.32195867909658593,
+          "estimated_profit_usd": 1.7570881941609366e+21,
+          "current_value_usd": 1.81592389676413e+21,
+          "account_info": {
+            "address": "0x7c4e143b23d72e6938e06291f705b5ae3d5c7c7c",
+            "displayName": {
+              "value": "0x7c4e...7c7c"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 16,
+          "address": "0x1bb3c7f27a9170194dcc6b143c0fbc4ad162f123",
+          "display_name": "0x1bb3...f123",
+          "token_amount": 2.770160999753208e+23,
+          "token_amount_raw": "277016099975320816683274",
+          "share_percent": 0.30057418955235593,
+          "estimated_profit_usd": 1.6403824286205938e+21,
+          "current_value_usd": 1.6953102649389713e+21,
+          "account_info": {
+            "address": "0x1bb3c7f27a9170194dcc6b143c0fbc4ad162f123",
+            "displayName": {
+              "value": "0x1bb3...f123"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 17,
+          "address": "0x440888714a6afed60ff44e9975a96e6a36f7fac4",
+          "display_name": "0x4408...fac4",
+          "token_amount": 2.7098257620852306e+23,
+          "token_amount_raw": "270982576208523054078709",
+          "share_percent": 0.294027560975491,
+          "estimated_profit_usd": 1.604654229535409e+21,
+          "current_value_usd": 1.6583857151510105e+21,
+          "account_info": {
+            "address": "0x440888714a6afed60ff44e9975a96e6a36f7fac4",
+            "displayName": {
+              "value": "0x4408...fac4"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 18,
+          "address": "0x1bd53d74db789a3c76d1ad8980fa41cc4a4e23c8",
+          "display_name": "0x1bd5...23c8",
+          "token_amount": 2.353385239226591e+23,
+          "token_amount_raw": "235338523922659098896054",
+          "share_percent": 0.2553522560775452,
+          "estimated_profit_usd": 1.3935839088581125e+21,
+          "current_value_usd": 1.440247752304699e+21,
+          "account_info": {
+            "address": "0x1bd53d74db789a3c76d1ad8980fa41cc4a4e23c8",
+            "displayName": {
+              "value": "0x1bd5...23c8"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 19,
+          "address": "0x52aa899454998be5b000ad077a46bbe360f4e497",
+          "display_name": "Fluid: Liquidity",
+          "token_amount": 2.2949165268641276e+23,
+          "token_amount_raw": "229491652686412771066643",
+          "share_percent": 0.24900815339395285,
+          "estimated_profit_usd": 1.3589609940195882e+21,
+          "current_value_usd": 1.4044654969575627e+21,
+          "account_info": {
+            "address": "0x52aa899454998be5b000ad077a46bbe360f4e497",
+            "displayName": {
+              "value": "Fluid: Liquidity"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 20,
+          "address": "0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23",
+          "display_name": "Bitget 6",
+          "token_amount": 2.0877525512376687e+23,
+          "token_amount_raw": "208775255123766863928200",
+          "share_percent": 0.22652998548821943,
+          "estimated_profit_usd": 1.236286483227218e+21,
+          "current_value_usd": 1.277683257789373e+21,
+          "account_info": {
+            "address": "0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23",
+            "displayName": {
+              "value": "Bitget 6"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        }
+      ],
+      "top_earners": [
+        {
+          "rank": 1,
+          "address": "0xd629edc5f1ff4cb7d9dd0a5be72c1d9fc5d02709",
+          "display_name": "0xd629...2709",
+          "token_amount": 2.9679701590469144e+25,
+          "token_amount_raw": "29679701590469143188870898",
+          "share_percent": 32.20373203039749,
+          "estimated_profit_usd": 1.757517378233456e+23,
+          "current_value_usd": 1.8163674519686944e+23,
+          "account_info": {
+            "address": "0xd629edc5f1ff4cb7d9dd0a5be72c1d9fc5d02709",
+            "displayName": {
+              "value": "0xd629...2709"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 2,
+          "address": "0x5c5b196abe0d54485975d1ec29617d42d9198326",
+          "display_name": "Elixir Protocol: sdeUSD Token",
+          "token_amount": 2.2783963686946624e+25,
+          "token_amount_raw": "22783963686946621830463077",
+          "share_percent": 24.72156463326282,
+          "estimated_profit_usd": 1.3491783939535135e+23,
+          "current_value_usd": 1.39435532873066e+23,
+          "account_info": {
+            "address": "0x5c5b196abe0d54485975d1ec29617d42d9198326",
+            "displayName": {
+              "value": "Elixir Protocol: sdeUSD Token"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 3,
+          "address": "0x7667095caa12b79fca489ff6e2198ca01fdae057",
+          "display_name": "0x7667...e057",
+          "token_amount": 9.441717110068007e+24,
+          "token_amount_raw": "9441717110068007590627781",
+          "share_percent": 10.24466256146893,
+          "estimated_profit_usd": 5.591020465865266e+22,
+          "current_value_usd": 5.778234527442352e+22,
+          "account_info": {
+            "address": "0x7667095caa12b79fca489ff6e2198ca01fdae057",
+            "displayName": {
+              "value": "0x7667...e057"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 4,
+          "address": "0xc3d688b66703497daa19211eedff47f25384cdc3",
+          "display_name": "Compound III: supply cUSDCv3",
+          "token_amount": 7.758126385688418e+24,
+          "token_amount_raw": "7758126385688417306130398",
+          "share_percent": 8.417895389584904,
+          "estimated_profit_usd": 4.594063017721661e+22,
+          "current_value_usd": 4.747894183595538e+22,
+          "account_info": {
+            "address": "0xc3d688b66703497daa19211eedff47f25384cdc3",
+            "displayName": {
+              "value": "Compound III: supply cUSDCv3"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        },
+        {
+          "rank": 5,
+          "address": "0x3afdc9bca9213a35503b077a6072f3d0d5ab0840",
+          "display_name": "0x3afd...0840",
+          "token_amount": 6.2615020726047e+24,
+          "token_amount_raw": "6261502072604700353743149",
+          "share_percent": 6.793994684862089,
+          "estimated_profit_usd": 3.7078198623066458e+22,
+          "current_value_usd": 3.831975375643904e+22,
+          "account_info": {
+            "address": "0x3afdc9bca9213a35503b077a6072f3d0d5ab0840",
+            "displayName": {
+              "value": "0x3afd...0840"
+            }
+          },
+          "token_symbol": "DEUSD",
+          "token_name": "Elixir deUSD",
+          "token_growth": 2986.43190515
+        }
+      ],
+      "total_holders_analyzed": 20
+    },
+    "CATX": {
+      "token_info": {
+        "rank": 6,
+        "name": "CATX",
+        "symbol": "CATX",
+        "price_usd": 2.4774103785637474e-06,
+        "volume_24h": 242464.20605042,
+        "percent_change_24h": 1557.42453519,
+        "contract_address": "0x8d0C064AB0973fE124Fa9EFAAd492060bAaCb62c",
+        "platform": "BNB",
+        "coin_id": 31291,
+        "market_cap": 0
+      },
+      "holders_analysis": [
+        {
+          "rank": 1,
+          "address": "0xabef8e481405e263bac143f1bac094f38ac030dc",
+          "display_name": "0xabef...30dc",
+          "token_amount": 1.915827386110052e+20,
+          "token_amount_raw": "191582738611005207537",
+          "share_percent": 19.158273861100522,
+          "estimated_profit_usd": 445992523480261.56,
+          "current_value_usd": 474629064988569.8,
+          "account_info": {
+            "address": "0xabef8e481405e263bac143f1bac094f38ac030dc",
+            "displayName": {
+              "value": "0xabef...30dc"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 2,
+          "address": "0x000000000000000000000000000000000000dead",
+          "display_name": "Null: 0x00...dEaD",
+          "token_amount": 1.1311335047097976e+20,
+          "token_amount_raw": "113113350470979759860",
+          "share_percent": 11.311335047097977,
+          "estimated_profit_usd": 263320740592866.75,
+          "current_value_usd": 280228188410923.8,
+          "account_info": {
+            "address": "0x000000000000000000000000000000000000dead",
+            "displayName": {
+              "value": "Null: 0x00...dEaD"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 3,
+          "address": "0x28cba3d6d080fe1afbbd24baa843778fa03ec940",
+          "display_name": "0x28cb...c940",
+          "token_amount": 2.9999869644975047e+19,
+          "token_amount_raw": "29999869644975045862",
+          "share_percent": 2.999986964497505,
+          "estimated_profit_usd": 69837803050763.68,
+          "current_value_usd": 74321988414020.7,
+          "account_info": {
+            "address": "0x28cba3d6d080fe1afbbd24baa843778fa03ec940",
+            "displayName": {
+              "value": "0x28cb...c940"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 4,
+          "address": "0xb307f5bb82efb174b190fe5c850c59ef8b2ec936",
+          "display_name": "0xb307...c936",
+          "token_amount": 1.8966734564157473e+19,
+          "token_amount_raw": "18966734564157471478",
+          "share_percent": 1.8966734564157472,
+          "estimated_profit_usd": 44153360954007.02,
+          "current_value_usd": 46988385056707.48,
+          "account_info": {
+            "address": "0xb307f5bb82efb174b190fe5c850c59ef8b2ec936",
+            "displayName": {
+              "value": "0xb307...c936"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 5,
+          "address": "0x2a1a1bac047f188350254d934af8d478b2fa3f4d",
+          "display_name": "0x2a1a...3f4d",
+          "token_amount": 1.5419755115620895e+19,
+          "token_amount_raw": "15419755115620895525",
+          "share_percent": 1.5419755115620895,
+          "estimated_profit_usd": 35896216670265.25,
+          "current_value_usd": 38201061358350.64,
+          "account_info": {
+            "address": "0x2a1a1bac047f188350254d934af8d478b2fa3f4d",
+            "displayName": {
+              "value": "0x2a1a...3f4d"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 6,
+          "address": "0xbade73b70222eb6c8cc9923081afdb224fe7a82e",
+          "display_name": "0xbade...a82e",
+          "token_amount": 1.5327707074917802e+19,
+          "token_amount_raw": "15327707074917802099",
+          "share_percent": 1.5327707074917802,
+          "estimated_profit_usd": 35681934641246.234,
+          "current_value_usd": 37973020586986.34,
+          "account_info": {
+            "address": "0xbade73b70222eb6c8cc9923081afdb224fe7a82e",
+            "displayName": {
+              "value": "0xbade...a82e"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 7,
+          "address": "0xd79bb16b950978b71dde11dade18e48dc84b6833",
+          "display_name": "0xd79b...6833",
+          "token_amount": 1.4729300039189305e+19,
+          "token_amount_raw": "14729300039189305868",
+          "share_percent": 1.4729300039189306,
+          "estimated_profit_usd": 34288880831347.496,
+          "current_value_usd": 36490520786066.99,
+          "account_info": {
+            "address": "0xd79bb16b950978b71dde11dade18e48dc84b6833",
+            "displayName": {
+              "value": "0xd79b...6833"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 8,
+          "address": "0x9f5acc713a57cd1746b16498830e8ddad5c4fac0",
+          "display_name": "0x9f5a...fac0",
+          "token_amount": 1.1997333329666038e+19,
+          "token_amount_raw": "11997333329666037272",
+          "share_percent": 1.1997333329666038,
+          "estimated_profit_usd": 27929034763386.77,
+          "current_value_usd": 29722318106003.402,
+          "account_info": {
+            "address": "0x9f5acc713a57cd1746b16498830e8ddad5c4fac0",
+            "displayName": {
+              "value": "0x9f5a...fac0"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 9,
+          "address": "0x19b5585056fa6e13fced8ccb3cbbfbb63a07c59d",
+          "display_name": "0x19b5...c59d",
+          "token_amount": 1.1820107933307242e+19,
+          "token_amount_raw": "11820107933307242975",
+          "share_percent": 1.1820107933307242,
+          "estimated_profit_usd": 27516465226486.39,
+          "current_value_usd": 29283258069719.05,
+          "account_info": {
+            "address": "0x19b5585056fa6e13fced8ccb3cbbfbb63a07c59d",
+            "displayName": {
+              "value": "0x19b5...c59d"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 10,
+          "address": "0xe4698dc694d8178114e9174bb469fbc5cffda577",
+          "display_name": "0xe469...a577",
+          "token_amount": 1.175161131453242e+19,
+          "token_amount_raw": "11751611314532420510",
+          "share_percent": 1.175161131453242,
+          "estimated_profit_usd": 27357009421236.23,
+          "current_value_usd": 29113563835469.777,
+          "account_info": {
+            "address": "0xe4698dc694d8178114e9174bb469fbc5cffda577",
+            "displayName": {
+              "value": "0xe469...a577"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 11,
+          "address": "0xcb750d053e17b010d00625b9d48d3a864840323d",
+          "display_name": "0xcb75...323d",
+          "token_amount": 1.1128959333523999e+19,
+          "token_amount_raw": "11128959333523997862",
+          "share_percent": 1.1128959333523998,
+          "estimated_profit_usd": 25907514908978.656,
+          "current_value_usd": 27570999355486.24,
+          "account_info": {
+            "address": "0xcb750d053e17b010d00625b9d48d3a864840323d",
+            "displayName": {
+              "value": "0xcb75...323d"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 12,
+          "address": "0x8bc3f57304b8c1ef249c7763958806b7a5857a69",
+          "display_name": "0x8bc3...7a69",
+          "token_amount": 1.0657825994490778e+19,
+          "token_amount_raw": "10657825994490777452",
+          "share_percent": 1.0657825994490777,
+          "estimated_profit_usd": 24810746231933.355,
+          "current_value_usd": 26403808731677.945,
+          "account_info": {
+            "address": "0x8bc3f57304b8c1ef249c7763958806b7a5857a69",
+            "displayName": {
+              "value": "0x8bc3...7a69"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 13,
+          "address": "0x0b25e0abafb07daae786e1668e41b34f34bc318e",
+          "display_name": "0x0b25...318e",
+          "token_amount": 1.0402167885157782e+19,
+          "token_amount_raw": "10402167885157781283",
+          "share_percent": 1.040216788515778,
+          "estimated_profit_usd": 24215590289616.816,
+          "current_value_usd": 25770438678252.395,
+          "account_info": {
+            "address": "0x0b25e0abafb07daae786e1668e41b34f34bc318e",
+            "displayName": {
+              "value": "0x0b25...318e"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 14,
+          "address": "0xa9deba183869383ffe37f10b2bae5fa230ebb45a",
+          "display_name": "0xa9de...b45a",
+          "token_amount": 9.10678026425091e+18,
+          "token_amount_raw": "9106780264250909311",
+          "share_percent": 0.9106780264250909,
+          "estimated_profit_usd": 21200009668304.2,
+          "current_value_usd": 22561231941954.71,
+          "account_info": {
+            "address": "0xa9deba183869383ffe37f10b2bae5fa230ebb45a",
+            "displayName": {
+              "value": "0xa9de...b45a"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 15,
+          "address": "0xb9e660995659071aa53cb69434731df710f2a5a2",
+          "display_name": "0xb9e6...a5a2",
+          "token_amount": 8.988e+18,
+          "token_amount_raw": "8988000000000000032",
+          "share_percent": 0.8988,
+          "estimated_profit_usd": 20923496710106.656,
+          "current_value_usd": 22266964482530.96,
+          "account_info": {
+            "address": "0xb9e660995659071aa53cb69434731df710f2a5a2",
+            "displayName": {
+              "value": "0xb9e6...a5a2"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 16,
+          "address": "0x3c91c74f48a273b83de97cc8232a79ec71551b83",
+          "display_name": "0x3c91...1b83",
+          "token_amount": 8.757447639769026e+18,
+          "token_amount_raw": "8757447639769026009",
+          "share_percent": 0.8757447639769026,
+          "estimated_profit_usd": 20386785367115.99,
+          "current_value_usd": 21695791672492.38,
+          "account_info": {
+            "address": "0x3c91c74f48a273b83de97cc8232a79ec71551b83",
+            "displayName": {
+              "value": "0x3c91...1b83"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 17,
+          "address": "0x6610172ee5618bf511223b85afb2a436c282e6bb",
+          "display_name": "0x6610...e6bb",
+          "token_amount": 8.285686454150447e+18,
+          "token_amount_raw": "8285686454150447158",
+          "share_percent": 0.8285686454150447,
+          "estimated_profit_usd": 19288555102847.37,
+          "current_value_usd": 20527045615037.37,
+          "account_info": {
+            "address": "0x6610172ee5618bf511223b85afb2a436c282e6bb",
+            "displayName": {
+              "value": "0x6610...e6bb"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 18,
+          "address": "0x551e1829c23cc0ad386f02a188dab9a5690f4ece",
+          "display_name": "0x551e...4ece",
+          "token_amount": 8.251082791776749e+18,
+          "token_amount_raw": "8251082791776748398",
+          "share_percent": 0.8251082791776748,
+          "estimated_profit_usd": 19207999960898.805,
+          "current_value_usd": 20441318142736.457,
+          "account_info": {
+            "address": "0x551e1829c23cc0ad386f02a188dab9a5690f4ece",
+            "displayName": {
+              "value": "0x551e...4ece"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 19,
+          "address": "0x74e85c9ebb933861b60bc326a9c347ff4ec46620",
+          "display_name": "0x74e8...6620",
+          "token_amount": 7.848769797834025e+18,
+          "token_amount_raw": "7848769797834024628",
+          "share_percent": 0.7848769797834024,
+          "estimated_profit_usd": 18271440703534.125,
+          "current_value_usd": 19444623756111.7,
+          "account_info": {
+            "address": "0x74e85c9ebb933861b60bc326a9c347ff4ec46620",
+            "displayName": {
+              "value": "0x74e8...6620"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 20,
+          "address": "0x52f209c6ae7f43e50b0f6f70bc9fa119a5701798",
+          "display_name": "0x52f2...1798",
+          "token_amount": 7.706684136472625e+18,
+          "token_amount_raw": "7706684136472625122",
+          "share_percent": 0.7706684136472625,
+          "estimated_profit_usd": 17940674251815.324,
+          "current_value_usd": 19092619264009.87,
+          "account_info": {
+            "address": "0x52f209c6ae7f43e50b0f6f70bc9fa119a5701798",
+            "displayName": {
+              "value": "0x52f2...1798"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        }
+      ],
+      "top_earners": [
+        {
+          "rank": 1,
+          "address": "0xabef8e481405e263bac143f1bac094f38ac030dc",
+          "display_name": "0xabef...30dc",
+          "token_amount": 1.915827386110052e+20,
+          "token_amount_raw": "191582738611005207537",
+          "share_percent": 19.158273861100522,
+          "estimated_profit_usd": 445992523480261.56,
+          "current_value_usd": 474629064988569.8,
+          "account_info": {
+            "address": "0xabef8e481405e263bac143f1bac094f38ac030dc",
+            "displayName": {
+              "value": "0xabef...30dc"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 2,
+          "address": "0x000000000000000000000000000000000000dead",
+          "display_name": "Null: 0x00...dEaD",
+          "token_amount": 1.1311335047097976e+20,
+          "token_amount_raw": "113113350470979759860",
+          "share_percent": 11.311335047097977,
+          "estimated_profit_usd": 263320740592866.75,
+          "current_value_usd": 280228188410923.8,
+          "account_info": {
+            "address": "0x000000000000000000000000000000000000dead",
+            "displayName": {
+              "value": "Null: 0x00...dEaD"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 3,
+          "address": "0x28cba3d6d080fe1afbbd24baa843778fa03ec940",
+          "display_name": "0x28cb...c940",
+          "token_amount": 2.9999869644975047e+19,
+          "token_amount_raw": "29999869644975045862",
+          "share_percent": 2.999986964497505,
+          "estimated_profit_usd": 69837803050763.68,
+          "current_value_usd": 74321988414020.7,
+          "account_info": {
+            "address": "0x28cba3d6d080fe1afbbd24baa843778fa03ec940",
+            "displayName": {
+              "value": "0x28cb...c940"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 4,
+          "address": "0xb307f5bb82efb174b190fe5c850c59ef8b2ec936",
+          "display_name": "0xb307...c936",
+          "token_amount": 1.8966734564157473e+19,
+          "token_amount_raw": "18966734564157471478",
+          "share_percent": 1.8966734564157472,
+          "estimated_profit_usd": 44153360954007.02,
+          "current_value_usd": 46988385056707.48,
+          "account_info": {
+            "address": "0xb307f5bb82efb174b190fe5c850c59ef8b2ec936",
+            "displayName": {
+              "value": "0xb307...c936"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        },
+        {
+          "rank": 5,
+          "address": "0x2a1a1bac047f188350254d934af8d478b2fa3f4d",
+          "display_name": "0x2a1a...3f4d",
+          "token_amount": 1.5419755115620895e+19,
+          "token_amount_raw": "15419755115620895525",
+          "share_percent": 1.5419755115620895,
+          "estimated_profit_usd": 35896216670265.25,
+          "current_value_usd": 38201061358350.64,
+          "account_info": {
+            "address": "0x2a1a1bac047f188350254d934af8d478b2fa3f4d",
+            "displayName": {
+              "value": "0x2a1a...3f4d"
+            }
+          },
+          "token_symbol": "CATX",
+          "token_name": "CATX",
+          "token_growth": 1557.42453519
+        }
+      ],
+      "total_holders_analyzed": 20
+    },
+    "DOGEX": {
+      "token_info": {
+        "rank": 7,
+        "name": "DOGEX",
+        "symbol": "DOGEX",
+        "price_usd": 2.056859186522192e-07,
+        "volume_24h": 91309.77405725,
+        "percent_change_24h": 1412.90732705,
+        "contract_address": "0x6f00d7AF383f79000A1fEBd9A251bf52b0B4f1f8",
+        "platform": "BNB",
+        "coin_id": 38772,
+        "market_cap": 0
+      },
+      "holders_analysis": [
+        {
+          "rank": 1,
+          "address": "0x5a2402ea091792a43fb93fbed8d493c5d5e9e9c9",
+          "display_name": "0x5a24...e9c9",
+          "token_amount": 5.948999849060792e+20,
+          "token_amount_raw": "594899984906079200469",
+          "share_percent": 59.48999849060792,
+          "estimated_profit_usd": 114274642089016.52,
+          "current_value_usd": 122362549901598.23,
+          "account_info": {
+            "address": "0x5a2402ea091792a43fb93fbed8d493c5d5e9e9c9",
+            "displayName": {
+              "value": "0x5a24...e9c9"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 2,
+          "address": "0xedf30943e360cedafc78f018c9883f809f9cc1c4",
+          "display_name": "0xedf3...c1c4",
+          "token_amount": 1.799544830485235e+20,
+          "token_amount_raw": "179954483048523508588",
+          "share_percent": 17.99544830485235,
+          "estimated_profit_usd": 34567548603872.67,
+          "current_value_usd": 37014103161420.766,
+          "account_info": {
+            "address": "0xedf30943e360cedafc78f018c9883f809f9cc1c4",
+            "displayName": {
+              "value": "0xedf3...c1c4"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 3,
+          "address": "0x000000000000000000000000000000000000dead",
+          "display_name": "Null: 0x00...dEaD",
+          "token_amount": 1.0000980124039995e+20,
+          "token_amount_raw": "100009801240399961788",
+          "share_percent": 10.000980124039996,
+          "estimated_profit_usd": 19210933824354.848,
+          "current_value_usd": 20570607842357.516,
+          "account_info": {
+            "address": "0x000000000000000000000000000000000000dead",
+            "displayName": {
+              "value": "Null: 0x00...dEaD"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 4,
+          "address": "0xcf8babe018f6a40c20e163ef456edd0520d2dea4",
+          "display_name": "0xcf8b...dea4",
+          "token_amount": 4.9805135536400564e+19,
+          "token_amount_raw": "49805135536400568306",
+          "share_percent": 4.980513553640057,
+          "estimated_profit_usd": 9567093935152.277,
+          "current_value_usd": 10244215056402.838,
+          "account_info": {
+            "address": "0xcf8babe018f6a40c20e163ef456edd0520d2dea4",
+            "displayName": {
+              "value": "0xcf8b...dea4"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 5,
+          "address": "0x753a58b2952aba79467a3cd1043f0e116e898c16",
+          "display_name": "0x753a...8c16",
+          "token_amount": 2.561351068184168e+19,
+          "token_amount_raw": "25613510681841681726",
+          "share_percent": 2.5613510681841682,
+          "estimated_profit_usd": 4920112355142.79,
+          "current_value_usd": 5268338474503.035,
+          "account_info": {
+            "address": "0x753a58b2952aba79467a3cd1043f0e116e898c16",
+            "displayName": {
+              "value": "0x753a...8c16"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 6,
+          "address": "0xfe0b9f84a20981eb8faa679115ee5e0c36c492b2",
+          "display_name": "0xfe0b...92b2",
+          "token_amount": 5.444156082540444e+18,
+          "token_amount_raw": "5444156082540443700",
+          "share_percent": 0.5444156082540443,
+          "estimated_profit_usd": 1045770723808.761,
+          "current_value_usd": 1119786245123.3982,
+          "account_info": {
+            "address": "0xfe0b9f84a20981eb8faa679115ee5e0c36c492b2",
+            "displayName": {
+              "value": "0xfe0b...92b2"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 7,
+          "address": "0x3afa70f6187be6659c4fb6a744d31919b25ee643",
+          "display_name": "0x3afa...e643",
+          "token_amount": 3.9813960175954596e+18,
+          "token_amount_raw": "3981396017595459772",
+          "share_percent": 0.398139601759546,
+          "estimated_profit_usd": 764788395476.5714,
+          "current_value_usd": 818917097397.4092,
+          "account_info": {
+            "address": "0x3afa70f6187be6659c4fb6a744d31919b25ee643",
+            "displayName": {
+              "value": "0x3afa...e643"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 8,
+          "address": "0xaeb6fa1142d058c98b6123d656cf52d4339d54e2",
+          "display_name": "0xaeb6...54e2",
+          "token_amount": 3.3400892408031923e+18,
+          "token_amount_raw": "3340089240803192124",
+          "share_percent": 0.33400892408031924,
+          "estimated_profit_usd": 641599449020.6942,
+          "current_value_usd": 687009323874.998,
+          "account_info": {
+            "address": "0xaeb6fa1142d058c98b6123d656cf52d4339d54e2",
+            "displayName": {
+              "value": "0xaeb6...54e2"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 9,
+          "address": "0x878eb691faa7a45251e2959b4abbf4366ef3c402",
+          "display_name": "0x878e...c402",
+          "token_amount": 2.923704857779197e+18,
+          "token_amount_raw": "2923704857779196903",
+          "share_percent": 0.2923704857779197,
+          "estimated_profit_usd": 561615960117.0339,
+          "current_value_usd": 601364919540.27,
+          "account_info": {
+            "address": "0x878eb691faa7a45251e2959b4abbf4366ef3c402",
+            "displayName": {
+              "value": "0x878e...c402"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 10,
+          "address": "0xfa0dff9984227810864bd758c59f9147429aa520",
+          "display_name": "0xfa0d...a520",
+          "token_amount": 2.9180728675012383e+18,
+          "token_amount_raw": "2918072867501238086",
+          "share_percent": 0.2918072867501238,
+          "estimated_profit_usd": 560534108226.6458,
+          "current_value_usd": 600206498446.1078,
+          "account_info": {
+            "address": "0xfa0dff9984227810864bd758c59f9147429aa520",
+            "displayName": {
+              "value": "0xfa0d...a520"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 11,
+          "address": "0xc8f8fcfcb58f1572e2596625150893adb29a554e",
+          "display_name": "0xc8f8...554e",
+          "token_amount": 2.0328599330855805e+18,
+          "token_amount_raw": "2032859933085580485",
+          "share_percent": 0.20328599330855804,
+          "estimated_profit_usd": 390493103319.09357,
+          "current_value_usd": 418130662827.9965,
+          "account_info": {
+            "address": "0xc8f8fcfcb58f1572e2596625150893adb29a554e",
+            "displayName": {
+              "value": "0xc8f8...554e"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 12,
+          "address": "0xd8cefae15911c6d4bf005f3f7ca940d02fb1fb43",
+          "display_name": "0xd8ce...fb43",
+          "token_amount": 1.7623153382392906e+18,
+          "token_amount_raw": "1762315338239290666",
+          "share_percent": 0.17623153382392906,
+          "estimated_profit_usd": 338524053849.27594,
+          "current_value_usd": 362483449300.6449,
+          "account_info": {
+            "address": "0xd8cefae15911c6d4bf005f3f7ca940d02fb1fb43",
+            "displayName": {
+              "value": "0xd8ce...fb43"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 13,
+          "address": "0x394ae9fb3ff39418583b140566650112c174936c",
+          "display_name": "0x394a...936c",
+          "token_amount": 1.6293883348203517e+18,
+          "token_amount_raw": "1629388334820351793",
+          "share_percent": 0.16293883348203517,
+          "estimated_profit_usd": 312990037838.0587,
+          "current_value_usd": 335142236488.73376,
+          "account_info": {
+            "address": "0x394ae9fb3ff39418583b140566650112c174936c",
+            "displayName": {
+              "value": "0x394a...936c"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 14,
+          "address": "0xe4466bddef1268271efb2eb20a38c32f3fd41120",
+          "display_name": "0xe446...1120",
+          "token_amount": 1.5682988757703025e+18,
+          "token_amount_raw": "1568298875770302374",
+          "share_percent": 0.15682988757703023,
+          "estimated_profit_usd": 301255332432.9844,
+          "current_value_usd": 322576994984.05725,
+          "account_info": {
+            "address": "0xe4466bddef1268271efb2eb20a38c32f3fd41120",
+            "displayName": {
+              "value": "0xe446...1120"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 15,
+          "address": "0xc3ea0cdc4a8fd2a27591b4560907c237c84c6b44",
+          "display_name": "0xc3ea...6b44",
+          "token_amount": 1.267127280870688e+18,
+          "token_amount_raw": "1267127280870688060",
+          "share_percent": 0.1267127280870688,
+          "estimated_profit_usd": 243403126872.80902,
+          "current_value_usd": 260630238815.17606,
+          "account_info": {
+            "address": "0xc3ea0cdc4a8fd2a27591b4560907c237c84c6b44",
+            "displayName": {
+              "value": "0xc3ea...6b44"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 16,
+          "address": "0xe3e5ecd8682b8568c30f492a4fb0ef83b51c99cb",
+          "display_name": "0xe3e5...99cb",
+          "token_amount": 1.0114304458572285e+18,
+          "token_amount_raw": "1011430445857228529",
+          "share_percent": 0.10114304458572285,
+          "estimated_profit_usd": 194286191176.34824,
+          "current_value_usd": 208037000408.9677,
+          "account_info": {
+            "address": "0xe3e5ecd8682b8568c30f492a4fb0ef83b51c99cb",
+            "displayName": {
+              "value": "0xe3e5...99cb"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 17,
+          "address": "0xcc593bc23adceb79699ae1d34278c684a71c06ae",
+          "display_name": "0xcc59...06ae",
+          "token_amount": 9.833607271482949e+17,
+          "token_amount_raw": "983360727148294887",
+          "share_percent": 0.09833607271482948,
+          "estimated_profit_usd": 188894264566.1817,
+          "current_value_usd": 202263454530.01132,
+          "account_info": {
+            "address": "0xcc593bc23adceb79699ae1d34278c684a71c06ae",
+            "displayName": {
+              "value": "0xcc59...06ae"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 18,
+          "address": "0x96da5ddf050bd12acb2bf1bbfa2f5c3adb2d5418",
+          "display_name": "0x96da...5418",
+          "token_amount": 9.670456197984237e+17,
+          "token_amount_raw": "967045619798423706",
+          "share_percent": 0.09670456197984237,
+          "estimated_profit_usd": 185760287258.4755,
+          "current_value_usd": 198907666686.84348,
+          "account_info": {
+            "address": "0x96da5ddf050bd12acb2bf1bbfa2f5c3adb2d5418",
+            "displayName": {
+              "value": "0x96da...5418"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 19,
+          "address": "0x90dbb211f8605b515eff3dd0d54d29e71fa2e868",
+          "display_name": "0x90db...e868",
+          "token_amount": 8.572754269385452e+17,
+          "token_amount_raw": "857275426938545125",
+          "share_percent": 0.08572754269385452,
+          "estimated_profit_usd": 164674474820.46487,
+          "current_value_usd": 176329483727.8281,
+          "account_info": {
+            "address": "0x90dbb211f8605b515eff3dd0d54d29e71fa2e868",
+            "displayName": {
+              "value": "0x90db...e868"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 20,
+          "address": "0x11748a7012a700e05e89e22f806fbab04f847ea0",
+          "display_name": "0x1174...7ea0",
+          "token_amount": 8.0124842442058e+17,
+          "token_amount_raw": "801248424420579984",
+          "share_percent": 0.080124842442058,
+          "estimated_profit_usd": 153912219277.50717,
+          "current_value_usd": 164805518245.5902,
+          "account_info": {
+            "address": "0x11748a7012a700e05e89e22f806fbab04f847ea0",
+            "displayName": {
+              "value": "0x1174...7ea0"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        }
+      ],
+      "top_earners": [
+        {
+          "rank": 1,
+          "address": "0x5a2402ea091792a43fb93fbed8d493c5d5e9e9c9",
+          "display_name": "0x5a24...e9c9",
+          "token_amount": 5.948999849060792e+20,
+          "token_amount_raw": "594899984906079200469",
+          "share_percent": 59.48999849060792,
+          "estimated_profit_usd": 114274642089016.52,
+          "current_value_usd": 122362549901598.23,
+          "account_info": {
+            "address": "0x5a2402ea091792a43fb93fbed8d493c5d5e9e9c9",
+            "displayName": {
+              "value": "0x5a24...e9c9"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 2,
+          "address": "0xedf30943e360cedafc78f018c9883f809f9cc1c4",
+          "display_name": "0xedf3...c1c4",
+          "token_amount": 1.799544830485235e+20,
+          "token_amount_raw": "179954483048523508588",
+          "share_percent": 17.99544830485235,
+          "estimated_profit_usd": 34567548603872.67,
+          "current_value_usd": 37014103161420.766,
+          "account_info": {
+            "address": "0xedf30943e360cedafc78f018c9883f809f9cc1c4",
+            "displayName": {
+              "value": "0xedf3...c1c4"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 3,
+          "address": "0x000000000000000000000000000000000000dead",
+          "display_name": "Null: 0x00...dEaD",
+          "token_amount": 1.0000980124039995e+20,
+          "token_amount_raw": "100009801240399961788",
+          "share_percent": 10.000980124039996,
+          "estimated_profit_usd": 19210933824354.848,
+          "current_value_usd": 20570607842357.516,
+          "account_info": {
+            "address": "0x000000000000000000000000000000000000dead",
+            "displayName": {
+              "value": "Null: 0x00...dEaD"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 4,
+          "address": "0xcf8babe018f6a40c20e163ef456edd0520d2dea4",
+          "display_name": "0xcf8b...dea4",
+          "token_amount": 4.9805135536400564e+19,
+          "token_amount_raw": "49805135536400568306",
+          "share_percent": 4.980513553640057,
+          "estimated_profit_usd": 9567093935152.277,
+          "current_value_usd": 10244215056402.838,
+          "account_info": {
+            "address": "0xcf8babe018f6a40c20e163ef456edd0520d2dea4",
+            "displayName": {
+              "value": "0xcf8b...dea4"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        },
+        {
+          "rank": 5,
+          "address": "0x753a58b2952aba79467a3cd1043f0e116e898c16",
+          "display_name": "0x753a...8c16",
+          "token_amount": 2.561351068184168e+19,
+          "token_amount_raw": "25613510681841681726",
+          "share_percent": 2.5613510681841682,
+          "estimated_profit_usd": 4920112355142.79,
+          "current_value_usd": 5268338474503.035,
+          "account_info": {
+            "address": "0x753a58b2952aba79467a3cd1043f0e116e898c16",
+            "displayName": {
+              "value": "0x753a...8c16"
+            }
+          },
+          "token_symbol": "DOGEX",
+          "token_name": "DOGEX",
+          "token_growth": 1412.90732705
+        }
+      ],
+      "total_holders_analyzed": 20
+    },
+    "PINK": {
+      "token_info": {
+        "rank": 8,
+        "name": "Dot Finance",
+        "symbol": "PINK",
+        "price_usd": 9.133681548926445e-05,
+        "volume_24h": 2.0794658,
+        "percent_change_24h": 861.66107872,
+        "contract_address": "0x9133049Fb1FdDC110c92BF5b7Df635abB70C89DC",
+        "platform": "BNB",
+        "coin_id": 9740,
+        "market_cap": 0
+      },
+      "holders_analysis": [
+        {
+          "rank": 1,
+          "address": "0xd79ee3be5e0154cd7540a55cc4f7e44d78a38b6a",
+          "display_name": "0xd79e...8b6a",
+          "token_amount": 2.2e+25,
+          "token_amount_raw": "22000000000000000000000000",
+          "share_percent": 17.11505554048597,
+          "estimated_profit_usd": 1.800457952872366e+21,
+          "current_value_usd": 2.009409940763818e+21,
+          "account_info": {
+            "address": "0xd79ee3be5e0154cd7540a55cc4f7e44d78a38b6a",
+            "displayName": {
+              "value": "0xd79e...8b6a"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 2,
+          "address": "0xb097e83211d896650ed0104da3309d3654416bc0",
+          "display_name": "0xb097...6bc0",
+          "token_amount": 2.0275682565560513e+25,
+          "token_amount_raw": "20275682565560512820781610",
+          "share_percent": 15.773610601401419,
+          "estimated_profit_usd": 1.6593415420490458e+21,
+          "current_value_usd": 1.8519162774094967e+21,
+          "account_info": {
+            "address": "0xb097e83211d896650ed0104da3309d3654416bc0",
+            "displayName": {
+              "value": "0xb097...6bc0"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 3,
+          "address": "0x969a1a1db0548d490a44e34b88fcd7653fb99744",
+          "display_name": "0x969a...9744",
+          "token_amount": 1.65e+25,
+          "token_amount_raw": "16500000000000000000000000",
+          "share_percent": 12.836291655364477,
+          "estimated_profit_usd": 1.3503434646542746e+21,
+          "current_value_usd": 1.5070574555728634e+21,
+          "account_info": {
+            "address": "0x969a1a1db0548d490a44e34b88fcd7653fb99744",
+            "displayName": {
+              "value": "0x969a...9744"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 4,
+          "address": "0x711de3b5acd1dd3a9807653a94ecfaccddf19594",
+          "display_name": "0x711d...9594",
+          "token_amount": 1.5340550248264107e+25,
+          "token_amount_raw": "15340550248264106818755161",
+          "share_percent": 11.934289523666182,
+          "estimated_profit_usd": 1.2554552589056937e+21,
+          "current_value_usd": 1.4011570075294887e+21,
+          "account_info": {
+            "address": "0x711de3b5acd1dd3a9807653a94ecfaccddf19594",
+            "displayName": {
+              "value": "0x711d...9594"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 5,
+          "address": "0x6bc69dda3071f3052a4586729008e16681bc0f0d",
+          "display_name": "0x6bc6...0f0d",
+          "token_amount": 8.81505952514099e+24,
+          "token_amount_raw": "8815059525140990000000000",
+          "share_percent": 6.8577378802489966,
+          "estimated_profit_usd": 7.214156375947e+20,
+          "current_value_usd": 8.051394653746857e+20,
+          "account_info": {
+            "address": "0x6bc69dda3071f3052a4586729008e16681bc0f0d",
+            "displayName": {
+              "value": "0x6bc6...0f0d"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 6,
+          "address": "0xd197c71dbfff23f2e08ecd1236447c533f3b7243",
+          "display_name": "0xd197...7243",
+          "token_amount": 5.27e+24,
+          "token_amount_raw": "5270000000000000000000000",
+          "share_percent": 4.099833759016412,
+          "estimated_profit_usd": 4.312915187107896e+20,
+          "current_value_usd": 4.813450176284237e+20,
+          "account_info": {
+            "address": "0xd197c71dbfff23f2e08ecd1236447c533f3b7243",
+            "displayName": {
+              "value": "0xd197...7243"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 7,
+          "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+          "display_name": "MEXC 13",
+          "token_amount": 4.614458555801409e+24,
+          "token_amount_raw": "4614458555801408814345493",
+          "share_percent": 3.5898506578096265,
+          "estimated_profit_usd": 3.776426638632991e+20,
+          "current_value_usd": 4.21469949694091e+20,
+          "account_info": {
+            "address": "0x4982085c9e2f89f2ecb8131eca71afad896e89cb",
+            "displayName": {
+              "value": "MEXC 13"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 8,
+          "address": "0x60f08421ef02fcac2f503bc83f6f694f1bf90afb",
+          "display_name": "0x60f0...0afb",
+          "token_amount": 4.227207233540769e+24,
+          "token_amount_raw": "4227207233540769065997771",
+          "share_percent": 3.2885857537815593,
+          "estimated_profit_usd": 3.4595040373036686e+20,
+          "current_value_usd": 3.8609964712479726e+20,
+          "account_info": {
+            "address": "0x60f08421ef02fcac2f503bc83f6f694f1bf90afb",
+            "displayName": {
+              "value": "0x60f0...0afb"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 9,
+          "address": "0xc0364a7adc51cd214ad0a3ca842bacd5164f605c",
+          "display_name": "0xc036...605c",
+          "token_amount": 3.54360137226621e+24,
+          "token_amount_raw": "3543601372266209883231028",
+          "share_percent": 2.7567697408944762,
+          "estimated_profit_usd": 2.900047851139149e+20,
+          "current_value_usd": 3.236612647061831e+20,
+          "account_info": {
+            "address": "0xc0364a7adc51cd214ad0a3ca842bacd5164f605c",
+            "displayName": {
+              "value": "0xc036...605c"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 10,
+          "address": "0x10c06b9e83831155522abd08fdc2511ccf9a050c",
+          "display_name": "0x10c0...050c",
+          "token_amount": 3.25317706e+24,
+          "token_amount_raw": "3253177060000000000000000",
+          "share_percent": 2.5308320938606754,
+          "estimated_profit_usd": 2.662367504444974e+20,
+          "current_value_usd": 2.9713483288312775e+20,
+          "account_info": {
+            "address": "0x10c06b9e83831155522abd08fdc2511ccf9a050c",
+            "displayName": {
+              "value": "0x10c0...050c"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 11,
+          "address": "0x000000000000000000000000000000000000dead",
+          "display_name": "Null: 0x00...dEaD",
+          "token_amount": 3.2400623770711937e+24,
+          "token_amount_raw": "3240062377071193780404383",
+          "share_percent": 2.5206294335551123,
+          "estimated_profit_usd": 2.6516345793638062e+20,
+          "current_value_usd": 2.959369795082592e+20,
+          "account_info": {
+            "address": "0x000000000000000000000000000000000000dead",
+            "displayName": {
+              "value": "Null: 0x00...dEaD"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 12,
+          "address": "0xb42a6b23ffd0dd58a0fcd1a140618f5f22c5d03b",
+          "display_name": "0xb42a...d03b",
+          "token_amount": 2.885e+24,
+          "token_amount_raw": "2885000000000000000000000",
+          "share_percent": 2.244406147013728,
+          "estimated_profit_usd": 2.3610550881985348e+20,
+          "current_value_usd": 2.6350671268652794e+20,
+          "account_info": {
+            "address": "0xb42a6b23ffd0dd58a0fcd1a140618f5f22c5d03b",
+            "displayName": {
+              "value": "0xb42a...d03b"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 13,
+          "address": "0x13e35374cb6074674b9e006392674165c86ac9f2",
+          "display_name": "0x13e3...c9f2",
+          "token_amount": 2.6318265953646516e+24,
+          "token_amount_raw": "2631826595364651387525734",
+          "share_percent": 2.0474481069360957,
+          "estimated_profit_usd": 2.1538605110024045e+20,
+          "current_value_usd": 2.4038266014056022e+20,
+          "account_info": {
+            "address": "0x13e35374cb6074674b9e006392674165c86ac9f2",
+            "displayName": {
+              "value": "0x13e3...c9f2"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 14,
+          "address": "0xe5ba01ffebfcab3dd11fd4ddbb62ca44dba288ae",
+          "display_name": "0xe5ba...88ae",
+          "token_amount": 1.7660942538668137e+24,
+          "token_amount_raw": "1766094253866813747223612",
+          "share_percent": 1.3739455111210748,
+          "estimated_profit_usd": 1.4453538385894056e+20,
+          "current_value_usd": 1.6130942500208332e+20,
+          "account_info": {
+            "address": "0xe5ba01ffebfcab3dd11fd4ddbb62ca44dba288ae",
+            "displayName": {
+              "value": "0xe5ba...88ae"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 15,
+          "address": "0x19fd12d8f1f1ed15c7d5e8dabd49e33054a2ef15",
+          "display_name": "0x19fd...ef15",
+          "token_amount": 7.005683039303373e+23,
+          "token_amount_raw": "700568303930337198258102",
+          "share_percent": 0.5450120650759898,
+          "estimated_profit_usd": 5.7333807924621844e+19,
+          "current_value_usd": 6.398767791371215e+19,
+          "account_info": {
+            "address": "0x19fd12d8f1f1ed15c7d5e8dabd49e33054a2ef15",
+            "displayName": {
+              "value": "0x19fd...ef15"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 16,
+          "address": "0x694de013718ab14da11eebffe94ad4457158b45e",
+          "display_name": "0x694d...b45e",
+          "token_amount": 5.315985735310703e+23,
+          "token_amount_raw": "531598573531070312786007",
+          "share_percent": 0.41356086869215375,
+          "estimated_profit_usd": 4.350549452043731e+19,
+          "current_value_usd": 4.855452082496355e+19,
+          "account_info": {
+            "address": "0x694de013718ab14da11eebffe94ad4457158b45e",
+            "displayName": {
+              "value": "0x694d...b45e"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 17,
+          "address": "0x75e99e936c27e71703024d934077413362119a5e",
+          "display_name": "0x75e9...9a5e",
+          "token_amount": 5.0145594857085785e+23,
+          "token_amount_raw": "501455948570857870757563",
+          "share_percent": 0.3901112004953322,
+          "estimated_profit_usd": 4.1038652300888965e+19,
+          "current_value_usd": 4.5801389450610524e+19,
+          "account_info": {
+            "address": "0x75e99e936c27e71703024d934077413362119a5e",
+            "displayName": {
+              "value": "0x75e9...9a5e"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 18,
+          "address": "0xb54df7951580006cde95142b68a816c2cef68aa3",
+          "display_name": "0xb54d...8aa3",
+          "token_amount": 5.0001e+23,
+          "token_amount_raw": "500010000000000000000000",
+          "share_percent": 0.388986314581745,
+          "estimated_profit_usd": 4.092031731889599e+19,
+          "current_value_usd": 4.566932111278712e+19,
+          "account_info": {
+            "address": "0xb54df7951580006cde95142b68a816c2cef68aa3",
+            "displayName": {
+              "value": "0xb54d...8aa3"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 19,
+          "address": "0xa79ba89e689b2afd08528bf2b118cda3ad0d0032",
+          "display_name": "0xa79b...0032",
+          "token_amount": 5e+23,
+          "token_amount_raw": "500000000000000000000000",
+          "share_percent": 0.38897853501104473,
+          "estimated_profit_usd": 4.091949892891741e+19,
+          "current_value_usd": 4.5668407744632226e+19,
+          "account_info": {
+            "address": "0xa79ba89e689b2afd08528bf2b118cda3ad0d0032",
+            "displayName": {
+              "value": "0xa79b...0032"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 20,
+          "address": "0xba9f77bb2efdf3f4ee377f46d20926c6a82ba4c3",
+          "display_name": "0xba9f...a4c3",
+          "token_amount": 4.569231538e+23,
+          "token_amount_raw": "456923153800000000000000",
+          "share_percent": 0.35546659795550056,
+          "estimated_profit_usd": 3.739413300503333e+19,
+          "current_value_usd": 4.17339057914034e+19,
+          "account_info": {
+            "address": "0xba9f77bb2efdf3f4ee377f46d20926c6a82ba4c3",
+            "displayName": {
+              "value": "0xba9f...a4c3"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        }
+      ],
+      "top_earners": [
+        {
+          "rank": 1,
+          "address": "0xd79ee3be5e0154cd7540a55cc4f7e44d78a38b6a",
+          "display_name": "0xd79e...8b6a",
+          "token_amount": 2.2e+25,
+          "token_amount_raw": "22000000000000000000000000",
+          "share_percent": 17.11505554048597,
+          "estimated_profit_usd": 1.800457952872366e+21,
+          "current_value_usd": 2.009409940763818e+21,
+          "account_info": {
+            "address": "0xd79ee3be5e0154cd7540a55cc4f7e44d78a38b6a",
+            "displayName": {
+              "value": "0xd79e...8b6a"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 2,
+          "address": "0xb097e83211d896650ed0104da3309d3654416bc0",
+          "display_name": "0xb097...6bc0",
+          "token_amount": 2.0275682565560513e+25,
+          "token_amount_raw": "20275682565560512820781610",
+          "share_percent": 15.773610601401419,
+          "estimated_profit_usd": 1.6593415420490458e+21,
+          "current_value_usd": 1.8519162774094967e+21,
+          "account_info": {
+            "address": "0xb097e83211d896650ed0104da3309d3654416bc0",
+            "displayName": {
+              "value": "0xb097...6bc0"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 3,
+          "address": "0x969a1a1db0548d490a44e34b88fcd7653fb99744",
+          "display_name": "0x969a...9744",
+          "token_amount": 1.65e+25,
+          "token_amount_raw": "16500000000000000000000000",
+          "share_percent": 12.836291655364477,
+          "estimated_profit_usd": 1.3503434646542746e+21,
+          "current_value_usd": 1.5070574555728634e+21,
+          "account_info": {
+            "address": "0x969a1a1db0548d490a44e34b88fcd7653fb99744",
+            "displayName": {
+              "value": "0x969a...9744"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 4,
+          "address": "0x711de3b5acd1dd3a9807653a94ecfaccddf19594",
+          "display_name": "0x711d...9594",
+          "token_amount": 1.5340550248264107e+25,
+          "token_amount_raw": "15340550248264106818755161",
+          "share_percent": 11.934289523666182,
+          "estimated_profit_usd": 1.2554552589056937e+21,
+          "current_value_usd": 1.4011570075294887e+21,
+          "account_info": {
+            "address": "0x711de3b5acd1dd3a9807653a94ecfaccddf19594",
+            "displayName": {
+              "value": "0x711d...9594"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        },
+        {
+          "rank": 5,
+          "address": "0x6bc69dda3071f3052a4586729008e16681bc0f0d",
+          "display_name": "0x6bc6...0f0d",
+          "token_amount": 8.81505952514099e+24,
+          "token_amount_raw": "8815059525140990000000000",
+          "share_percent": 6.8577378802489966,
+          "estimated_profit_usd": 7.214156375947e+20,
+          "current_value_usd": 8.051394653746857e+20,
+          "account_info": {
+            "address": "0x6bc69dda3071f3052a4586729008e16681bc0f0d",
+            "displayName": {
+              "value": "0x6bc6...0f0d"
+            }
+          },
+          "token_symbol": "PINK",
+          "token_name": "Dot Finance",
+          "token_growth": 861.66107872
+        }
+      ],
+      "total_holders_analyzed": 20
+    },
+    "PLYR": {
+      "token_info": {
+        "rank": 9,
+        "name": "PLYR L1",
+        "symbol": "PLYR",
+        "price_usd": 0.0023438218390158796,
+        "volume_24h": 0,
+        "percent_change_24h": 727.29622399,
+        "contract_address": "0xC09a033927f9fD558C92CF7AeAbE34B71ce4B31E",
+        "platform": "Avalanche",
+        "coin_id": 33760,
+        "market_cap": 201783.7988113942
+      },
+      "holders_analysis": [
+        {
+          "rank": 1,
+          "address": "0xfb3b645786a8cbb96b9129d187909c0b78cbe42f",
+          "display_name": "0xfb3b...e42f",
+          "token_amount": 4.503690949761257e+24,
+          "token_amount_raw": "4503690949761256722832812",
+          "share_percent": 38.59285486800481,
+          "estimated_profit_usd": 9.279903672491691e+21,
+          "current_value_usd": 1.0555849204228602e+22,
+          "account_info": {
+            "address": "0xfb3b645786a8cbb96b9129d187909c0b78cbe42f",
+            "displayName": {
+              "value": "0xfb3b...e42f"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 2,
+          "address": "0x45269ef7a01062c2ffd1c56bf3b2d549b8fb6f82",
+          "display_name": "0x4526...6f82",
+          "token_amount": 3.668396122673711e+24,
+          "token_amount_raw": "3668396122673711103757167",
+          "share_percent": 31.435078636602054,
+          "estimated_profit_usd": 7.558769691503511e+21,
+          "current_value_usd": 8.59806694648382e+21,
+          "account_info": {
+            "address": "0x45269ef7a01062c2ffd1c56bf3b2d549b8fb6f82",
+            "displayName": {
+              "value": "0x4526...6f82"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 3,
+          "address": "0x28d8353b6d3a88d8234a78618c991558f4109642",
+          "display_name": "0x28d8...9642",
+          "token_amount": 1.6764195254969516e+24,
+          "token_amount_raw": "1676419525496951463450635",
+          "share_percent": 14.365509571393439,
+          "estimated_profit_usd": 3.4542804745784394e+21,
+          "current_value_usd": 3.9292286952123935e+21,
+          "account_info": {
+            "address": "0x28d8353b6d3a88d8234a78618c991558f4109642",
+            "displayName": {
+              "value": "0x28d8...9642"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 4,
+          "address": "0x7290e3eb1997d83c811fe9cbeb6273192777b485",
+          "display_name": "0x7290...b485",
+          "token_amount": 5.815570220917942e+23,
+          "token_amount_raw": "581557022091794198809686",
+          "share_percent": 4.983456014504602,
+          "estimated_profit_usd": 1.198304502967518e+21,
+          "current_value_usd": 1.3630660490117878e+21,
+          "account_info": {
+            "address": "0x7290e3eb1997d83c811fe9cbeb6273192777b485",
+            "displayName": {
+              "value": "0x7290...b485"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 5,
+          "address": "0xcfab672df2c46e77482d7318d3c9d19e13b4b17c",
+          "display_name": "0xcfab...b17c",
+          "token_amount": 1.666e+23,
+          "token_amount_raw": "166600000000000000000000",
+          "share_percent": 1.4276222975180917,
+          "estimated_profit_usd": 3.432810930152904e+20,
+          "current_value_usd": 3.9048071838004557e+20,
+          "account_info": {
+            "address": "0xcfab672df2c46e77482d7318d3c9d19e13b4b17c",
+            "displayName": {
+              "value": "0xcfab...b17c"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 6,
+          "address": "0xb1d492eee50e30e9ebd744f6d1ef5b053ae798a0",
+          "display_name": "0xb1d4...98a0",
+          "token_amount": 5.592320860099885e+22,
+          "token_amount_raw": "55923208600998844878133",
+          "share_percent": 0.47921500328656347,
+          "estimated_profit_usd": 1.1523037319011389e+20,
+          "current_value_usd": 1.3107403762686178e+20,
+          "account_info": {
+            "address": "0xb1d492eee50e30e9ebd744f6d1ef5b053ae798a0",
+            "displayName": {
+              "value": "0xb1d4...98a0"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 7,
+          "address": "0x9dafe5cb45e6bc6a0b64e2b2076886de08fe171e",
+          "display_name": "0x9daf...171e",
+          "token_amount": 5.03825804882463e+22,
+          "token_amount_raw": "50382580488246297407071",
+          "share_percent": 0.4317364664557044,
+          "estimated_profit_usd": 1.0381384933334955e+20,
+          "current_value_usd": 1.1808779245432703e+20,
+          "account_info": {
+            "address": "0x9dafe5cb45e6bc6a0b64e2b2076886de08fe171e",
+            "displayName": {
+              "value": "0x9daf...171e"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 8,
+          "address": "0x1143b1cdfba2b71fc63031f95de010a450b7ebe8",
+          "display_name": "0x1143...ebe8",
+          "token_amount": 3.905e+22,
+          "token_amount_raw": "39050000000000000000000",
+          "share_percent": 0.334625754610333,
+          "estimated_profit_usd": 8.046294527159117e+19,
+          "current_value_usd": 9.15262428135701e+19,
+          "account_info": {
+            "address": "0x1143b1cdfba2b71fc63031f95de010a450b7ebe8",
+            "displayName": {
+              "value": "0x1143...ebe8"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 9,
+          "address": "0x6bbea7d93f9c0e4d308398e03256073299afa422",
+          "display_name": "0x6bbe...a422",
+          "token_amount": 3.5693099673887003e+22,
+          "token_amount_raw": "35693099673887004498463",
+          "share_percent": 0.305859933745359,
+          "estimated_profit_usd": 7.354601602134235e+19,
+          "current_value_usd": 8.365826651782693e+19,
+          "account_info": {
+            "address": "0x6bbea7d93f9c0e4d308398e03256073299afa422",
+            "displayName": {
+              "value": "0x6bbe...a422"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 10,
+          "address": "0x7edd953255bfc08c80aca581bd9f947b66f651cf",
+          "display_name": "0x7edd...51cf",
+          "token_amount": 3.3e+22,
+          "token_amount_raw": "33000000000000000000000",
+          "share_percent": 0.282782327839718,
+          "estimated_profit_usd": 6.7996855159091134e+19,
+          "current_value_usd": 7.734612068752402e+19,
+          "account_info": {
+            "address": "0x7edd953255bfc08c80aca581bd9f947b66f651cf",
+            "displayName": {
+              "value": "0x7edd...51cf"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 11,
+          "address": "0xc257f9db6590a4b5619e614594642b5582d482e6",
+          "display_name": "0xc257...82e6",
+          "token_amount": 3.1700397596555235e+22,
+          "token_amount_raw": "31700397596555235510446",
+          "share_percent": 0.2716458250241967,
+          "estimated_profit_usd": 6.531901041995658e+19,
+          "current_value_usd": 7.430008419229267e+19,
+          "account_info": {
+            "address": "0xc257f9db6590a4b5619e614594642b5582d482e6",
+            "displayName": {
+              "value": "0xc257...82e6"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 12,
+          "address": "0xacd5396a625d47f10cdc84c95683cde4d0688ce8",
+          "display_name": "0xacd5...8ce8",
+          "token_amount": 3.033963961428452e+22,
+          "token_amount_raw": "30339639614284518852921",
+          "share_percent": 0.2599852701801667,
+          "estimated_profit_usd": 6.251515395247055e+19,
+          "current_value_usd": 7.111070991583138e+19,
+          "account_info": {
+            "address": "0xacd5396a625d47f10cdc84c95683cde4d0688ce8",
+            "displayName": {
+              "value": "0xacd5...8ce8"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 13,
+          "address": "0xa06d5e26ed75e564b99ef9805aa1c0f08cfbddb1",
+          "display_name": "0xa06d...ddb1",
+          "token_amount": 2.781437472426169e+22,
+          "token_amount_raw": "27814374724261689354608",
+          "share_percent": 0.23834586763433138,
+          "estimated_profit_usd": 5.7311818468675985e+19,
+          "current_value_usd": 6.519193891729583e+19,
+          "account_info": {
+            "address": "0xa06d5e26ed75e564b99ef9805aa1c0f08cfbddb1",
+            "displayName": {
+              "value": "0xa06d...ddb1"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 14,
+          "address": "0xb84ec1e9d66456c3e96c356cbe206ae02a2dcf33",
+          "display_name": "0xb84e...cf33",
+          "token_amount": 2.514333283623209e+22,
+          "token_amount_raw": "25143332836232087444844",
+          "share_percent": 0.21545727845692514,
+          "estimated_profit_usd": 5.180810791157859e+19,
+          "current_value_usd": 5.893149260720584e+19,
+          "account_info": {
+            "address": "0xb84ec1e9d66456c3e96c356cbe206ae02a2dcf33",
+            "displayName": {
+              "value": "0xb84e...cf33"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 15,
+          "address": "0xdf99bfbfae81cf8635a6b76da45a3f5813129fcb",
+          "display_name": "0xdf99...9fcb",
+          "token_amount": 2.509e+22,
+          "token_amount_raw": "25090000000000000000000",
+          "share_percent": 0.21500026077268258,
+          "estimated_profit_usd": 5.169821502853323e+19,
+          "current_value_usd": 5.880648994090842e+19,
+          "account_info": {
+            "address": "0xdf99bfbfae81cf8635a6b76da45a3f5813129fcb",
+            "displayName": {
+              "value": "0xdf99...9fcb"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 16,
+          "address": "0x9470a4b093e3771269ff532defddb79ddb73a3cc",
+          "display_name": "0x9470...a3cc",
+          "token_amount": 2.502e+22,
+          "token_amount_raw": "25020000000000000000000",
+          "share_percent": 0.2144004194712044,
+          "estimated_profit_usd": 5.155397927516547e+19,
+          "current_value_usd": 5.864242241217731e+19,
+          "account_info": {
+            "address": "0x9470a4b093e3771269ff532defddb79ddb73a3cc",
+            "displayName": {
+              "value": "0x9470...a3cc"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 17,
+          "address": "0x4e4f6259462ffa29ba2c6dfbd96f344697b84d10",
+          "display_name": "0x4e4f...4d10",
+          "token_amount": 2.502e+22,
+          "token_amount_raw": "25020000000000000000000",
+          "share_percent": 0.2144004194712044,
+          "estimated_profit_usd": 5.155397927516547e+19,
+          "current_value_usd": 5.864242241217731e+19,
+          "account_info": {
+            "address": "0x4e4f6259462ffa29ba2c6dfbd96f344697b84d10",
+            "displayName": {
+              "value": "0x4e4f...4d10"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 18,
+          "address": "0x77ac041488a3c39f6818b5acfe52f8796f2cde46",
+          "display_name": "0x77ac...de46",
+          "token_amount": 2.501e+22,
+          "token_amount_raw": "25010000000000000000000",
+          "share_percent": 0.2143147278567075,
+          "estimated_profit_usd": 5.153337416754149e+19,
+          "current_value_usd": 5.861898419378715e+19,
+          "account_info": {
+            "address": "0x77ac041488a3c39f6818b5acfe52f8796f2cde46",
+            "displayName": {
+              "value": "0x77ac...de46"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 19,
+          "address": "0x2b4ad8c24cabc6f58902f79b973dc189ed0befee",
+          "display_name": "0x2b4a...efee",
+          "token_amount": 2.501e+22,
+          "token_amount_raw": "25010000000000000000000",
+          "share_percent": 0.2143147278567075,
+          "estimated_profit_usd": 5.153337416754149e+19,
+          "current_value_usd": 5.861898419378715e+19,
+          "account_info": {
+            "address": "0x2b4ad8c24cabc6f58902f79b973dc189ed0befee",
+            "displayName": {
+              "value": "0x2b4a...efee"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 20,
+          "address": "0x26a2ba52eb5dc43c1f158cdfc8b3399af4e80f82",
+          "display_name": "0x26a2...0f82",
+          "token_amount": 2.5002e+22,
+          "token_amount_raw": "25002000000000000000000",
+          "share_percent": 0.21424617456511,
+          "estimated_profit_usd": 5.1516890081442324e+19,
+          "current_value_usd": 5.860023361907502e+19,
+          "account_info": {
+            "address": "0x26a2ba52eb5dc43c1f158cdfc8b3399af4e80f82",
+            "displayName": {
+              "value": "0x26a2...0f82"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        }
+      ],
+      "top_earners": [
+        {
+          "rank": 1,
+          "address": "0xfb3b645786a8cbb96b9129d187909c0b78cbe42f",
+          "display_name": "0xfb3b...e42f",
+          "token_amount": 4.503690949761257e+24,
+          "token_amount_raw": "4503690949761256722832812",
+          "share_percent": 38.59285486800481,
+          "estimated_profit_usd": 9.279903672491691e+21,
+          "current_value_usd": 1.0555849204228602e+22,
+          "account_info": {
+            "address": "0xfb3b645786a8cbb96b9129d187909c0b78cbe42f",
+            "displayName": {
+              "value": "0xfb3b...e42f"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 2,
+          "address": "0x45269ef7a01062c2ffd1c56bf3b2d549b8fb6f82",
+          "display_name": "0x4526...6f82",
+          "token_amount": 3.668396122673711e+24,
+          "token_amount_raw": "3668396122673711103757167",
+          "share_percent": 31.435078636602054,
+          "estimated_profit_usd": 7.558769691503511e+21,
+          "current_value_usd": 8.59806694648382e+21,
+          "account_info": {
+            "address": "0x45269ef7a01062c2ffd1c56bf3b2d549b8fb6f82",
+            "displayName": {
+              "value": "0x4526...6f82"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 3,
+          "address": "0x28d8353b6d3a88d8234a78618c991558f4109642",
+          "display_name": "0x28d8...9642",
+          "token_amount": 1.6764195254969516e+24,
+          "token_amount_raw": "1676419525496951463450635",
+          "share_percent": 14.365509571393439,
+          "estimated_profit_usd": 3.4542804745784394e+21,
+          "current_value_usd": 3.9292286952123935e+21,
+          "account_info": {
+            "address": "0x28d8353b6d3a88d8234a78618c991558f4109642",
+            "displayName": {
+              "value": "0x28d8...9642"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 4,
+          "address": "0x7290e3eb1997d83c811fe9cbeb6273192777b485",
+          "display_name": "0x7290...b485",
+          "token_amount": 5.815570220917942e+23,
+          "token_amount_raw": "581557022091794198809686",
+          "share_percent": 4.983456014504602,
+          "estimated_profit_usd": 1.198304502967518e+21,
+          "current_value_usd": 1.3630660490117878e+21,
+          "account_info": {
+            "address": "0x7290e3eb1997d83c811fe9cbeb6273192777b485",
+            "displayName": {
+              "value": "0x7290...b485"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        },
+        {
+          "rank": 5,
+          "address": "0xcfab672df2c46e77482d7318d3c9d19e13b4b17c",
+          "display_name": "0xcfab...b17c",
+          "token_amount": 1.666e+23,
+          "token_amount_raw": "166600000000000000000000",
+          "share_percent": 1.4276222975180917,
+          "estimated_profit_usd": 3.432810930152904e+20,
+          "current_value_usd": 3.9048071838004557e+20,
+          "account_info": {
+            "address": "0xcfab672df2c46e77482d7318d3c9d19e13b4b17c",
+            "displayName": {
+              "value": "0xcfab...b17c"
+            }
+          },
+          "token_symbol": "PLYR",
+          "token_name": "PLYR L1",
+          "token_growth": 727.29622399
+        }
+      ],
+      "total_holders_analyzed": 20
+    },
+    "PUPPIES": {
+      "token_info": {
+        "rank": 10,
+        "name": "I love puppies",
+        "symbol": "PUPPIES",
+        "price_usd": 7.7998404823977e-11,
+        "volume_24h": 253701.58300249,
+        "percent_change_24h": 646.38078511,
+        "contract_address": "0x0e60ce572a5456b6974d5e7507cc07110dd062a4",
+        "platform": "Ethereum",
+        "coin_id": 38541,
+        "market_cap": 0
+      },
+      "holders_analysis": [
+        {
+          "rank": 1,
+          "address": "0x578251b906c91603d623da1a674bb15bb0500fa5",
+          "display_name": "0x5782...0fa5",
+          "token_amount": 1.5127930341900876e+19,
+          "token_amount_raw": "15127930341900876601",
+          "share_percent": 35.95980494402262,
+          "estimated_profit_usd": 1021864294.0396836,
+          "current_value_usd": 1179954434.9565094,
+          "account_info": {
+            "address": "0x578251b906c91603d623da1a674bb15bb0500fa5",
+            "displayName": {
+              "value": "0x5782...0fa5"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 2,
+          "address": "0x9642b23ed1e01df1092b92641051881a322f5d4e",
+          "display_name": "MEXC 16",
+          "token_amount": 3.568649944805843e+18,
+          "token_amount_raw": "3568649944805842721",
+          "share_percent": 8.482849473022517,
+          "estimated_profit_usd": 241055840.03274575,
+          "current_value_usd": 278349003.0700293,
+          "account_info": {
+            "address": "0x9642b23ed1e01df1092b92641051881a322f5d4e",
+            "displayName": {
+              "value": "MEXC 16"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 3,
+          "address": "0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
+          "display_name": "vitalik.eth",
+          "token_amount": 3.169665765110344e+18,
+          "token_amount_raw": "3169665765110344388",
+          "share_percent": 7.53444523309407,
+          "estimated_profit_usd": 214105181.35683376,
+          "current_value_usd": 247228873.50377744,
+          "account_info": {
+            "address": "0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
+            "displayName": {
+              "value": "vitalik.eth"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 4,
+          "address": "0xbd2a34bb340f75ae69f25cf9deb60d207684f2b1",
+          "display_name": "0xbd2a...f2b1",
+          "token_amount": 2.272044661744456e+18,
+          "token_amount_raw": "2272044661744456014",
+          "share_percent": 5.40075747401758,
+          "estimated_profit_usd": 153472501.64614373,
+          "current_value_usd": 177215859.30489996,
+          "account_info": {
+            "address": "0xbd2a34bb340f75ae69f25cf9deb60d207684f2b1",
+            "displayName": {
+              "value": "0xbd2a...f2b1"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 5,
+          "address": "0x4ff1d40fb7b56665bf95d8d8e3a5320de46709a1",
+          "display_name": "0x4ff1...09a1",
+          "token_amount": 2.0125117722827694e+18,
+          "token_amount_raw": "2012511772282769300",
+          "share_percent": 4.783835537528273,
+          "estimated_profit_usd": 135941525.0435293,
+          "current_value_usd": 156972707.92753088,
+          "account_info": {
+            "address": "0x4ff1d40fb7b56665bf95d8d8e3a5320de46709a1",
+            "displayName": {
+              "value": "0x4ff1...09a1"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 6,
+          "address": "0x43a4e84cfa85eb0fa1768038a04ff36f75f8db36",
+          "display_name": "0x43a4...db36",
+          "token_amount": 1.1259998661113134e+18,
+          "token_amount_raw": "1125999866111313455",
+          "share_percent": 2.6765548648917576,
+          "estimated_profit_usd": 76059251.48172227,
+          "current_value_usd": 87826193.38869412,
+          "account_info": {
+            "address": "0x43a4e84cfa85eb0fa1768038a04ff36f75f8db36",
+            "displayName": {
+              "value": "0x43a4...db36"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 7,
+          "address": "0xe0ab41582213568c397fbece6b07165995eeea9f",
+          "display_name": "0xe0ab...ea9f",
+          "token_amount": 1.0048414738838779e+18,
+          "token_amount_raw": "1004841473883877935",
+          "share_percent": 2.3885556440226248,
+          "estimated_profit_usd": 67875221.53563285,
+          "current_value_usd": 78376032.06391643,
+          "account_info": {
+            "address": "0xe0ab41582213568c397fbece6b07165995eeea9f",
+            "displayName": {
+              "value": "0xe0ab...ea9f"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 8,
+          "address": "0x4f72b05437fe25795221064988afa032afdb236c",
+          "display_name": "0x4f72...236c",
+          "token_amount": 1.0025351619270497e+18,
+          "token_amount_raw": "1002535161927049696",
+          "share_percent": 2.383073431569682,
+          "estimated_profit_usd": 67719434.34027065,
+          "current_value_usd": 78196143.41025737,
+          "account_info": {
+            "address": "0x4f72b05437fe25795221064988afa032afdb236c",
+            "displayName": {
+              "value": "0x4f72...236c"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 9,
+          "address": "0xf707fb1aeab209b156bd2991d3bd09c8345fbeca",
+          "display_name": "0xf707...beca",
+          "token_amount": 1e+18,
+          "token_amount_raw": "1000000000000000000",
+          "share_percent": 2.3770472319284983,
+          "estimated_profit_usd": 67548188.74392588,
+          "current_value_usd": 77998404.82397701,
+          "account_info": {
+            "address": "0xf707fb1aeab209b156bd2991d3bd09c8345fbeca",
+            "displayName": {
+              "value": "0xf707...beca"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 10,
+          "address": "0xd1b817e31a921d41b592f0bce230127e5a1e3277",
+          "display_name": "0xd1b8...3277",
+          "token_amount": 6.527677610083427e+17,
+          "token_amount_raw": "652767761008342611",
+          "share_percent": 1.5516597993970445,
+          "estimated_profit_usd": 44093279.92654143,
+          "current_value_usd": 50914844.07916978,
+          "account_info": {
+            "address": "0xd1b817e31a921d41b592f0bce230127e5a1e3277",
+            "displayName": {
+              "value": "0xd1b8...3277"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 11,
+          "address": "0x726fbb6a2523a08f21786aae86877fb3e630bf17",
+          "display_name": "0x726f...bf17",
+          "token_amount": 5.009078512000179e+17,
+          "token_amount_raw": "500907851200017926",
+          "share_percent": 1.1906816211462548,
+          "estimated_profit_usd": 33835418.07617315,
+          "current_value_usd": 39070013.357407436,
+          "account_info": {
+            "address": "0x726fbb6a2523a08f21786aae86877fb3e630bf17",
+            "displayName": {
+              "value": "0x726f...bf17"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 12,
+          "address": "0xa08a5a703ce379cf02ba456adbe01de55872b7c6",
+          "display_name": "0xa08a...b7c6",
+          "token_amount": 3.5393753134326054e+17,
+          "token_amount_raw": "353937531343260560",
+          "share_percent": 0.8413262291551037,
+          "estimated_profit_usd": 23907839.170733746,
+          "current_value_usd": 27606562.852110684,
+          "account_info": {
+            "address": "0xa08a5a703ce379cf02ba456adbe01de55872b7c6",
+            "displayName": {
+              "value": "0xa08a...b7c6"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 13,
+          "address": "0xe8217eecfccb195ff6ccf90abfd93230d946d524",
+          "display_name": "0xe821...d524",
+          "token_amount": 3.490041445610478e+17,
+          "token_amount_raw": "349004144561047793",
+          "share_percent": 0.8295993357604121,
+          "estimated_profit_usd": 23574597.82922205,
+          "current_value_usd": 27221766.5527184,
+          "account_info": {
+            "address": "0xe8217eecfccb195ff6ccf90abfd93230d946d524",
+            "displayName": {
+              "value": "0xe821...d524"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 14,
+          "address": "0x6d0d19bdddc5ed1dd501430c9621dd37ebd9062d",
+          "display_name": "BitMart 13",
+          "token_amount": 3.003500685528654e+17,
+          "token_amount_raw": "300350068552865376",
+          "share_percent": 0.7139462990631233,
+          "estimated_profit_usd": 20288103.11986003,
+          "current_value_usd": 23426826.23589564,
+          "account_info": {
+            "address": "0x6d0d19bdddc5ed1dd501430c9621dd37ebd9062d",
+            "displayName": {
+              "value": "BitMart 13"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 15,
+          "address": "0x6a78342f693f98088988f6bbaf1cab171c6c5233",
+          "display_name": "0x6a78...5233",
+          "token_amount": 2.9554892794976474e+17,
+          "token_amount_raw": "295548927949764705",
+          "share_percent": 0.7025337610824234,
+          "estimated_profit_usd": 19963794.76821566,
+          "current_value_usd": 23052344.927518163,
+          "account_info": {
+            "address": "0x6a78342f693f98088988f6bbaf1cab171c6c5233",
+            "displayName": {
+              "value": "0x6a78...5233"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 16,
+          "address": "0xbf28be1db284ecba0ad0d3f70e64c1b6b240edcd",
+          "display_name": "0xbf28...edcd",
+          "token_amount": 2.7689945195505978e+17,
+          "token_amount_raw": "276899451955059783",
+          "share_percent": 0.6582030757922931,
+          "estimated_profit_usd": 18704056.443750013,
+          "current_value_usd": 21597715.549128123,
+          "account_info": {
+            "address": "0xbf28be1db284ecba0ad0d3f70e64c1b6b240edcd",
+            "displayName": {
+              "value": "0xbf28...edcd"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 17,
+          "address": "0x6c3303973590939f656beb05e42723f059fcd98a",
+          "display_name": "0x6c33...d98a",
+          "token_amount": 2.702430891755432e+17,
+          "token_amount_raw": "270243089175543202",
+          "share_percent": 0.6423805870725313,
+          "estimated_profit_usd": 18254431.194371186,
+          "current_value_usd": 21078529.870396137,
+          "account_info": {
+            "address": "0x6c3303973590939f656beb05e42723f059fcd98a",
+            "displayName": {
+              "value": "0x6c33...d98a"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 18,
+          "address": "0x2c28988e720e3598fd7a19f59887e9ba8f102564",
+          "display_name": "0x2c28...2564",
+          "token_amount": 2.5901749323017898e+17,
+          "token_amount_raw": "259017493230178962",
+          "share_percent": 0.6156968153038554,
+          "estimated_profit_usd": 17496162.520690672,
+          "current_value_usd": 20202951.29345922,
+          "account_info": {
+            "address": "0x2c28988e720e3598fd7a19f59887e9ba8f102564",
+            "displayName": {
+              "value": "0x2c28...2564"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 19,
+          "address": "0x03d5d0ef30307db72ab2fe02c1928830c612eea0",
+          "display_name": "0x03d5...eea0",
+          "token_amount": 2.5408353549974365e+17,
+          "token_amount_raw": "254083535499743658",
+          "share_percent": 0.603968564738272,
+          "estimated_profit_usd": 17162882.612660676,
+          "current_value_usd": 19818110.46101634,
+          "account_info": {
+            "address": "0x03d5d0ef30307db72ab2fe02c1928830c612eea0",
+            "displayName": {
+              "value": "0x03d5...eea0"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 20,
+          "address": "0x7718bc9e46745e94602c43a4a4903488647c4839",
+          "display_name": "0x7718...4839",
+          "token_amount": 2.457224808160912e+17,
+          "token_amount_raw": "245722480816091206",
+          "share_percent": 0.5840939428464932,
+          "estimated_profit_usd": 16598108.512791036,
+          "current_value_usd": 19165961.533045404,
+          "account_info": {
+            "address": "0x7718bc9e46745e94602c43a4a4903488647c4839",
+            "displayName": {
+              "value": "0x7718...4839"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        }
+      ],
+      "top_earners": [
+        {
+          "rank": 1,
+          "address": "0x578251b906c91603d623da1a674bb15bb0500fa5",
+          "display_name": "0x5782...0fa5",
+          "token_amount": 1.5127930341900876e+19,
+          "token_amount_raw": "15127930341900876601",
+          "share_percent": 35.95980494402262,
+          "estimated_profit_usd": 1021864294.0396836,
+          "current_value_usd": 1179954434.9565094,
+          "account_info": {
+            "address": "0x578251b906c91603d623da1a674bb15bb0500fa5",
+            "displayName": {
+              "value": "0x5782...0fa5"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 2,
+          "address": "0x9642b23ed1e01df1092b92641051881a322f5d4e",
+          "display_name": "MEXC 16",
+          "token_amount": 3.568649944805843e+18,
+          "token_amount_raw": "3568649944805842721",
+          "share_percent": 8.482849473022517,
+          "estimated_profit_usd": 241055840.03274575,
+          "current_value_usd": 278349003.0700293,
+          "account_info": {
+            "address": "0x9642b23ed1e01df1092b92641051881a322f5d4e",
+            "displayName": {
+              "value": "MEXC 16"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 3,
+          "address": "0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
+          "display_name": "vitalik.eth",
+          "token_amount": 3.169665765110344e+18,
+          "token_amount_raw": "3169665765110344388",
+          "share_percent": 7.53444523309407,
+          "estimated_profit_usd": 214105181.35683376,
+          "current_value_usd": 247228873.50377744,
+          "account_info": {
+            "address": "0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
+            "displayName": {
+              "value": "vitalik.eth"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 4,
+          "address": "0xbd2a34bb340f75ae69f25cf9deb60d207684f2b1",
+          "display_name": "0xbd2a...f2b1",
+          "token_amount": 2.272044661744456e+18,
+          "token_amount_raw": "2272044661744456014",
+          "share_percent": 5.40075747401758,
+          "estimated_profit_usd": 153472501.64614373,
+          "current_value_usd": 177215859.30489996,
+          "account_info": {
+            "address": "0xbd2a34bb340f75ae69f25cf9deb60d207684f2b1",
+            "displayName": {
+              "value": "0xbd2a...f2b1"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        },
+        {
+          "rank": 5,
+          "address": "0x4ff1d40fb7b56665bf95d8d8e3a5320de46709a1",
+          "display_name": "0x4ff1...09a1",
+          "token_amount": 2.0125117722827694e+18,
+          "token_amount_raw": "2012511772282769300",
+          "share_percent": 4.783835537528273,
+          "estimated_profit_usd": 135941525.0435293,
+          "current_value_usd": 156972707.92753088,
+          "account_info": {
+            "address": "0x4ff1d40fb7b56665bf95d8d8e3a5320de46709a1",
+            "displayName": {
+              "value": "0x4ff1...09a1"
+            }
+          },
+          "token_symbol": "PUPPIES",
+          "token_name": "I love puppies",
+          "token_growth": 646.38078511
+        }
+      ],
+      "total_holders_analyzed": 20
+    }
+  }
+}

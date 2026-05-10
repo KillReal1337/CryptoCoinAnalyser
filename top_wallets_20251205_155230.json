@@ -1,0 +1,101 @@
+[
+  {
+    "wallet_address": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
+    "current_balance_usd": 1650044.22,
+    "estimated_daily_profit_usd": 25452.96,
+    "roi_percent": 46.3,
+    "win_rate_percent": 65.6,
+    "total_trades": 13,
+    "daily_volume_usd": 644033.89,
+    "token_count": 10,
+    "top_tokens": [
+      {
+        "symbol": "MOODENG",
+        "name": "MOO DENG",
+        "balance_usd": 452094.14441138774,
+        "price": 1.5069192513799333e-05,
+        "change_24h": -2.431252881784396
+      },
+      {
+        "symbol": "WHITE",
+        "name": "WhiteRock",
+        "balance_usd": 297021.6010328252,
+        "price": 0.00011912312008797542,
+        "change_24h": -0.4608964061712961
+      },
+      {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "balance_usd": 38821.45581644971,
+        "price": 0.99980086,
+        "change_24h": -0.001657311698544106
+      }
+    ]
+  },
+  {
+    "wallet_address": "0x3d280fde2ddb59323c891cf30995e1862510342f",
+    "current_balance_usd": 477.26,
+    "estimated_daily_profit_usd": 0,
+    "roi_percent": 0,
+    "win_rate_percent": 50,
+    "total_trades": 0,
+    "daily_volume_usd": 0,
+    "token_count": 10,
+    "top_tokens": [
+      {
+        "symbol": "SQUIGSTR",
+        "name": "SquiggleStrategy",
+        "balance_usd": 367.6983494358159,
+        "price": 0.000623564551466901,
+        "change_24h": -1.6752580766765335
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ether",
+        "balance_usd": 85.27525532498831,
+        "price": 3120.5684,
+        "change_24h": -2.072431560020349
+      },
+      {
+        "symbol": "FOLKLORE",
+        "name": "Memes Origin",
+        "balance_usd": 12.91285857246469,
+        "price": 1.1551314585256422e-08,
+        "change_24h": -1.8913277334531742
+      }
+    ]
+  },
+  {
+    "wallet_address": "0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae",
+    "current_balance_usd": 40604855.05,
+    "estimated_daily_profit_usd": -241238.89,
+    "roi_percent": -17.8,
+    "win_rate_percent": 55.0,
+    "total_trades": 18,
+    "daily_volume_usd": 6617268.85,
+    "token_count": 10,
+    "top_tokens": [
+      {
+        "symbol": "ETH",
+        "name": "Ether",
+        "balance_usd": 39863460.30220024,
+        "price": 3120.5684,
+        "change_24h": -2.072431560020349
+      },
+      {
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "balance_usd": 668241.5382656723,
+        "price": 3120.5684,
+        "change_24h": -2.072431560020349
+      },
+      {
+        "symbol": "BNB",
+        "name": "BNB",
+        "balance_usd": 49754.64697383607,
+        "price": 1181.820593202757,
+        "change_24h": -1.9157181242987487
+      }
+    ]
+  }
+]
